@@ -1,0 +1,21 @@
+_id: req_318b31474b8e43b5ab77dd0afe416363
+type: Request
+parentId: fld_dc7cf7fcbf4347a49ce19c11944122f8
+modified: 1668721506317
+created: 1668721495018
+url: https://internal-api.mercadopago.com/acq/etl/v1/transactions/CAQABAQKqd_TVaOOyFF8gKlx2PjHSEnssF49my0jRAssQvJerooAUAmbVF41QHeM?version=1.0.*
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668721495018
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
