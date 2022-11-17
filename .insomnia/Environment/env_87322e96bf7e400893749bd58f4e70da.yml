@@ -1,0 +1,16 @@
+_id: env_87322e96bf7e400893749bd58f4e70da
+type: Environment
+parentId: env_1493f59c4805f4aaa680252e8fbac24a3bdd14be
+modified: 1668720123324
+created: 1668719560476
+name: Admins Settings Local
+data:
+  Endpoint: http://localhost:8080
+  version: /v1
+dataPropertyOrder:
+  "&":
+    - Endpoint
+    - version
+color: null
+isPrivate: false
+metaSortKey: 5

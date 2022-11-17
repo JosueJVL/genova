@@ -1,0 +1,16 @@
+_id: env_12f598c2ba3d4c14ace064a2756e61d1
+type: Environment
+parentId: env_1493f59c4805f4aaa680252e8fbac24a3bdd14be
+modified: 1668720120360
+created: 1668718886197
+name: Admins Settings Test
+data:
+  Endpoint: https://internal-api.mercadopago.com/acq/test/api-roles
+  version: /v1
+dataPropertyOrder:
+  "&":
+    - Endpoint
+    - version
+color: null
+isPrivate: false
+metaSortKey: 3

@@ -1,9 +1,9 @@
 _id: req_864ea07530bc482a98a0128665ff727d
 type: Request
 parentId: fld_01412927f7fd4ddea7e96969fcc2c8b4
-modified: 1668715352887
+modified: 1668720140011
 created: 1668715352887
-url: "{{Endpoint}}{{version}}/securityGroup/owner/jvicencio"
+url: "{{ _.Endpoint }}{{ _.version }}/securityGroup/owner/jvicencio"
 name: Get By OwnerId
 description: ""
 method: GET

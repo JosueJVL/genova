@@ -1,0 +1,16 @@
+_id: env_0d5ec9be19464bc6814f3889fa8fa357
+type: Environment
+parentId: env_1493f59c4805f4aaa680252e8fbac24a3bdd14be
+modified: 1668720118095
+created: 1668719726935
+name: Financial Entities Prod
+data:
+  Endpoint: ""
+  version: /v1
+dataPropertyOrder:
+  "&":
+    - Endpoint
+    - version
+color: null
+isPrivate: false
+metaSortKey: 2

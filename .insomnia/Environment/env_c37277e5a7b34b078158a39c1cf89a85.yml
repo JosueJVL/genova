@@ -1,0 +1,16 @@
+_id: env_c37277e5a7b34b078158a39c1cf89a85
+type: Environment
+parentId: env_1493f59c4805f4aaa680252e8fbac24a3bdd14be
+modified: 1668720114400
+created: 1668719673730
+name: Financial Entities Local
+data:
+  Endpoint: ""
+  version: /v1
+dataPropertyOrder:
+  "&":
+    - Endpoint
+    - version
+color: null
+isPrivate: false
+metaSortKey: 0

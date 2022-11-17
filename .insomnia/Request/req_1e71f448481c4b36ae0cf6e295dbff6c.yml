@@ -1,9 +1,9 @@
 _id: req_1e71f448481c4b36ae0cf6e295dbff6c
 type: Request
 parentId: fld_01412927f7fd4ddea7e96969fcc2c8b4
-modified: 1668715352875
+modified: 1668720180986
 created: 1668715352875
-url: "{{Endpoint}}{{version}}/securityGroup/2/users"
+url: "{{Endpoint}}{{version}}/securityGroup/1/users"
 name: Find Users
 description: ""
 method: GET

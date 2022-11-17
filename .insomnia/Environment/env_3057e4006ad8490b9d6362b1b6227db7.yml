@@ -1,0 +1,16 @@
+_id: env_3057e4006ad8490b9d6362b1b6227db7
+type: Environment
+parentId: env_1493f59c4805f4aaa680252e8fbac24a3bdd14be
+modified: 1668720249462
+created: 1668719072554
+name: Admins Settings Dev
+data:
+  Endpoint: https://acq-dev-api-admins-settings.melioffice.com
+  version: /v1
+dataPropertyOrder:
+  "&":
+    - Endpoint
+    - version
+color: null
+isPrivate: false
+metaSortKey: 4

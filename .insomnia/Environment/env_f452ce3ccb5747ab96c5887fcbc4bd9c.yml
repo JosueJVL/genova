@@ -1,0 +1,16 @@
+_id: env_f452ce3ccb5747ab96c5887fcbc4bd9c
+type: Environment
+parentId: env_1493f59c4805f4aaa680252e8fbac24a3bdd14be
+modified: 1668720116259
+created: 1668719710743
+name: Financial Entities Test
+data:
+  Endpoint: https://internal-api.mercadopago.com/acq/test/financial-entity
+  version: /v1
+dataPropertyOrder:
+  "&":
+    - Endpoint
+    - version
+color: null
+isPrivate: false
+metaSortKey: 1

@@ -1,0 +1,16 @@
+_id: env_1f4e13dfccfe46858c84b3863a0e3a12
+type: Environment
+parentId: env_1493f59c4805f4aaa680252e8fbac24a3bdd14be
+modified: 1668720132450
+created: 1668719628503
+name: UserBank Prod
+data:
+  Endpoint: https://internal-api.mercadopago.com/acq/prod/userdata-bank
+  version: /v1
+dataPropertyOrder:
+  "&":
+    - Endpoint
+    - version
+color: null
+isPrivate: false
+metaSortKey: 9
