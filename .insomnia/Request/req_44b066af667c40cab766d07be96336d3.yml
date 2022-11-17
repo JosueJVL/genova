@@ -1,0 +1,30 @@
+_id: req_44b066af667c40cab766d07be96336d3
+type: Request
+parentId: fld_2036d3a5b6c5424eb2927da31f95b855
+modified: 1668715353014
+created: 1668715353014
+url: "{{Endpoint}}{{version}}/application/1/resource"
+name: Resource
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "name": "POST Advaces",
+        "path": "advances",
+        "resource": ""
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715353014
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

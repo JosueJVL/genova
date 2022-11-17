@@ -1,0 +1,21 @@
+_id: req_243c135ae4304900ba9bf10264858f3b
+type: Request
+parentId: fld_0b7a426199274c68b5e06c98ed36c063
+modified: 1668715234038
+created: 1668715234038
+url: "{{ms_test_base_url}}/routings/v1/clearing_routings/9999"
+name: Update Clearing Routings Mastercard error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234038
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

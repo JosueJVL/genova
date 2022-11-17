@@ -1,0 +1,21 @@
+_id: req_c86a6707920b4dea8f4301c8187273d5
+type: Request
+parentId: fld_f2963952d9a3416c8b8fd4e14360c3c7
+modified: 1668714918624
+created: 1668714918624
+url: https://internal-api.mercadopago.com/acq-advance-citi-br/staging-api/advances/search_detail?id=73
+name: Advances Search Detail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918624
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

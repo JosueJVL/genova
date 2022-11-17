@@ -1,0 +1,22 @@
+_id: req_57cbdc9c3c33496aa87f3635506349ec
+type: Request
+parentId: fld_e8c79004a1184f3b9e4d1ad634b08230
+modified: 1668714918844
+created: 1668714918844
+url: "{{conciliation}}/consistency/payments_gateway/recheck?pay_transaction_id=\
+  14457500072&user=developerlocal"
+name: Get Recheck Detail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918844
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

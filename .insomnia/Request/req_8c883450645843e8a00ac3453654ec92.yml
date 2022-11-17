@@ -1,0 +1,21 @@
+_id: req_8c883450645843e8a00ac3453654ec92
+type: Request
+parentId: fld_3460824f33e7467a971183681dbd00b7
+modified: 1668714919285
+created: 1668714919285
+url: "{{clearing}}/admin/files/v1/filters"
+name: Get constants
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919285
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

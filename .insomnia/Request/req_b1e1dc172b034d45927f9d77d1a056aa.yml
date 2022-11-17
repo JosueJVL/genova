@@ -1,0 +1,21 @@
+_id: req_b1e1dc172b034d45927f9d77d1a056aa
+type: Request
+parentId: fld_bfeb5cc7f2cf40ff8a26609a94dc3ee3
+modified: 1668715182160
+created: 1668715182160
+url: https://local.adminml.com:8443/api/fileType
+name: File type
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715182160
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

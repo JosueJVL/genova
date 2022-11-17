@@ -1,0 +1,21 @@
+_id: req_eec97b913cad4b329b2793ad7f9b08b5
+type: Request
+parentId: fld_66d7b3efb7a34f4fb6aef55f79af4e00
+modified: 1668714918556
+created: 1668714918556
+url: https://internal-api.mercadopago.com/acq-merchant-schedule/v1/payment/search_accounting_detail?payment_id=77
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918556
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,31 @@
+_id: req_2655cd2ffc06401b8b1b6cca00f11bbd
+type: Request
+parentId: fld_768430347b2c45d5b8b5fa9a8a9f8a10
+modified: 1668715352850
+created: 1668715352850
+url: https://internal-api.mercadopago.com/acq/test/api-roles/v1/role/1/resource/63
+name: Original Create assig resource
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "roleId": 1,
+        "resourceId": 63,
+        "validTo": null,
+        "requireAuthorization": false
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352850
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

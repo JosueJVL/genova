@@ -1,0 +1,24 @@
+_id: req_d3d122b70ea24df1a19807625634e784
+type: Request
+parentId: fld_e7855571055f42079c884337fd8157de
+modified: 1668715235052
+created: 1668715235052
+url: "{{ms_test_base_url}}customers/v1/customers/search?include_merchant_id=fal\
+  se&include_settlement_account_id=false&include_customer_setting_id=false"
+name: Retrieve Customers
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-9a85db02-8d73-466c-b6aa-1f1fd5794222
+authentication: {}
+metaSortKey: -1668715235052
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

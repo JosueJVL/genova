@@ -1,0 +1,23 @@
+_id: req_b4e1dbd39df4452d8c00d414014e04f7
+type: Request
+parentId: fld_2723922fb42245fc86c063dce3218e96
+modified: 1668715233955
+created: 1668715233955
+url: "{{ms_test_base_url}}/merchants/v1/merchants/search"
+name: Retrieve Merchants
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-e917de07-da72-4f4c-8c6b-1008e6cbf0fa
+authentication: {}
+metaSortKey: -1668715233955
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

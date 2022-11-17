@@ -1,0 +1,21 @@
+_id: req_10d431d15c61463dac864a7dae42541d
+type: Request
+parentId: fld_7484284a93b2402fa52526e2df29ad1b
+modified: 1668714918609
+created: 1668714918609
+url: https://internal-api.mercadopago.com/acq-advance-citi-br/staging-api/files/search?date_from=2020-01-01&date_to=2022-02-20&brand=visa&country=BR&depositary_bank=14fad029-8844-11ec-986b-0242ac130004
+name: Search File
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918609
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

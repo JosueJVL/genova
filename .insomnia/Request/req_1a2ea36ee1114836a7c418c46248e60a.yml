@@ -1,0 +1,23 @@
+_id: req_1a2ea36ee1114836a7c418c46248e60a
+type: Request
+parentId: fld_8839cf4bdbeb4981a48ace88fef018b4
+modified: 1668714918666
+created: 1668714918666
+url: "{{pre-advances}}/constants/search"
+name: constants
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: x-admin-user
+    value: developerUser
+authentication: {}
+metaSortKey: -1668714918666
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

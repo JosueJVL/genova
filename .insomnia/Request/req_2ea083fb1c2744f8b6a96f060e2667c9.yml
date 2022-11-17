@@ -1,0 +1,37 @@
+_id: req_2ea083fb1c2744f8b6a96f060e2667c9
+type: Request
+parentId: fld_f2963952d9a3416c8b8fd4e14360c3c7
+modified: 1668714918614
+created: 1668714918614
+url: https://internal-api.mercadopago.com/acq-advance-citi-br/staging-api/advances/create
+name: Create Advances
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: >-
+    {
+       "advance_bank_id":"3a4c2ba0-9bc0-11ec-931f-0242ac130004",
+       "advance_date":"2022-03-04",
+       "brand":"visa",
+       "country":"BR",
+       "currency":"BRL",
+       "depositary_bank_id":"36de04a8-9bc0-11ec-931f-0242ac130004",
+       "file_body":"100000000001SOPRQ20220304MERCADOPAGO.COM REPRESNTACOES LTDA.     10573521000191CNPJITAU UNIBANCO S.A.                      60701190000104CNPJ0000000001                                         \n11ALELO S.A                               04740876000125CNPJ0001000BRLASGN                                    20220304                                                                          \n20                                20220920000000007000000000000000000001                                                                                                                        \n20                                20220923000000003000450000000000000001                                                                                                                        \n310000000000000000000000000000000000000000040000000100004500000000000000                                                                                                                        \n11BANCO CREFISA S.A.                      61033106000186CNPJ0001000BRLASGN                                    20220304                                                                          \n20                                20220927000000002500250000000000000001                                                                                                                        \n20                                20221030000000010000000000000000000001                                                                                                                        \n310000000000000000000000000000000000000000040000000125002500000000000000                                                                                                                        \n11BANCO DA AMAZONIA S.A.                  04902979000144CNPJ0001000BRLASGN                                    20220304                                                                          \n20                                20221215000000001234650000000000000001                                                                                                                        \n310000000000000000000000000000000000000000030000000012346500000000000000                                                                                                                        \n3000000000130000000237353500000000000000                                                                                                                                                        \n",
+       "file_type":"Remessa",
+       "total_advance_amount": null,
+       "total_tax_amount_rc": 23735.35
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668714918614
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

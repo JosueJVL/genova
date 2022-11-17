@@ -1,0 +1,23 @@
+_id: req_6ab0faeb6dda49b7ac0b7cbbaee35ef5
+type: Request
+parentId: fld_bbea968e0b884d0798adf9c70ba3dab2
+modified: 1668715233898
+created: 1668715233898
+url: "{{ms_test_base_url}}/merchants/v1/merchants/1/capability_types/2"
+name: Disable Capability
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715233898
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

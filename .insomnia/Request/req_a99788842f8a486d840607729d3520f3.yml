@@ -1,0 +1,35 @@
+_id: req_a99788842f8a486d840607729d3520f3
+type: Request
+parentId: fld_ca3ebfe3bbfa45e5b290130c2377f480
+modified: 1668715352814
+created: 1668715352814
+url: "{{Endpoint}}{{version}}/inputcontrol"
+name: InputControl - Create
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    [
+        {
+        "pageId": 1,
+        "resourceId": 1,
+        "inputName": "Test",
+        "isActive": true,
+        "target": "Titulo",
+        "messageText": "Esto es una ayuda"
+        }
+    ]
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352814
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

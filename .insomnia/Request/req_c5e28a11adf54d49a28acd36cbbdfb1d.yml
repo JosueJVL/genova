@@ -1,0 +1,37 @@
+_id: req_c5e28a11adf54d49a28acd36cbbdfb1d
+type: Request
+parentId: fld_bbea968e0b884d0798adf9c70ba3dab2
+modified: 1668715233914
+created: 1668715233914
+url: "{{ms_test_base_url}}/merchants/v1/merchants/781/capability_types/3"
+name: Update capability
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |
+    {
+          "capability_values":[
+           {
+            "value": false
+           }
+        ],
+
+        "start_valid_date": "2022-08-06T00:00:00Z"
+
+    }
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715233914
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

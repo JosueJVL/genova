@@ -1,0 +1,39 @@
+_id: req_490e7a30d3e348a1bfa93d32c8bdb04c
+type: Request
+parentId: fld_2723922fb42245fc86c063dce3218e96
+modified: 1668715233968
+created: 1668715233968
+url: "{{ms_test_base_url}}/merchants/v1/customers/1/settlement_account/1/mercha\
+  nts/566"
+name: Update Merchant
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: >-
+    {
+        "brand": "mastercard",
+        "description": "Tarjeta No Presente - Marketplace - 1x - Master Credit - Doméstico - Cobertura de casos de uso",
+        "default_mcc": "5965",
+        "default_digital_wallet": "",
+        "dynamic_location": true,
+        "static_mcc": false,
+        "short_description": "TNP - MktPlace - 1x - Mast CR - Dom - Cobertura de casos de uso -- EDIT",
+        "clearing_routing_id": 19,
+        "start_valid_date": "2022-08-05T00:00:00Z"
+    }
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715233968
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

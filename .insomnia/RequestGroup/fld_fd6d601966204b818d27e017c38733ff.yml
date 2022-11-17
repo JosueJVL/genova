@@ -1,0 +1,31 @@
+_id: fld_fd6d601966204b818d27e017c38733ff
+type: RequestGroup
+parentId: wrk_a48e511f753943208f1cbbbded85f531
+modified: 1668715460459
+created: 1668714919588
+name: "** GENOVA - Fe **"
+description: ""
+environment:
+  host: https://internal-api.mercadopago.com/acq-reporting/staging-api
+  fury: staging-api.acq-visa-reporting.furyapps.io
+  token: e3e1f8d2e7dc6ac60aa3b604c8c6aabfa199285778a0857522eac43c4d3b19f4
+  internal-mp: http://internal.mercadopago.com
+  internal-api-mp: https://internal-api.mercadopago.com/acq-ss/test-staging
+  internal-mp-acq-ss: http://internal.mercadopago.com/acq-ss/test-staging
+  internal-acq-str: https://internal-api.mercadopago.com
+  merchant-schedule: https://internal-api.mercadopago.com/acq-merchant-schedule/staging-api
+  advances: https://internal-api.mercadopago.com/acq-advance/staging
+  conciliation: https://internal-api.mercadopago.com/acq-conciliation-online/test-staging
+  settlement_queries: https://internal-api.mercadopago.com/acq-ss/test-staging
+  db_store: https://internal-api.mercadopago.com/acq-dbstore/test-staging
+  clearing: https://internal-api.mercadopago.com/acq/staging/mastercard-offline
+  cerc: https://internal-api.mercadopago.com/acq-cerc/staging-api
+  brand_reporting: https://internal-api.mercadopago.com/acq-reporting/staging-api
+  backoffice_bi: https://internal-api.mercadopago.com/acq/backoffice-bi/test-staging
+  transactions: https://internal-api.mercadopago.com/acq/staging/etl/v1
+  ard: https://internal-api.mercadopago.com/acq/staging/backoffice
+  dates: https://internal-api.mercadopago.com/acq-dates/staging-api
+  pre-advances: https://internal-api.mercadopago.com/acq-advance-ar/staging-api
+  marcadopago: https://internal-api.mercadopago.com
+environmentPropertyOrder: null
+metaSortKey: -1668715455050

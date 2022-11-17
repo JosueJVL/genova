@@ -1,0 +1,21 @@
+_id: req_6bf1fd61cfa64abd85eae33026fe4b1d
+type: Request
+parentId: fld_0b7a426199274c68b5e06c98ed36c063
+modified: 1668715233977
+created: 1668715233977
+url: "{{ms_test_base_url}}/routings/v1/clearing_routings/9999/enable"
+name: Enable Clearing Routings Mastercard error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715233977
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

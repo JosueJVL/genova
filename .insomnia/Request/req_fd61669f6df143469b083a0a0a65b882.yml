@@ -1,0 +1,21 @@
+_id: req_fd61669f6df143469b083a0a0a65b882
+type: Request
+parentId: fld_ca3ebfe3bbfa45e5b290130c2377f480
+modified: 1668715352821
+created: 1668715352821
+url: "{{Endpoint}}{{version}}/application"
+name: Admins tree
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352821
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

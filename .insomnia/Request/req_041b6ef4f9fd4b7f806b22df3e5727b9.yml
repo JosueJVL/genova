@@ -1,0 +1,21 @@
+_id: req_041b6ef4f9fd4b7f806b22df3e5727b9
+type: Request
+parentId: fld_939cdfe7483b4ae1baaf881c077f6f7d
+modified: 1668715234492
+created: 1668715234492
+url: "{{ms_test_base_url}}/financials/v1/plan_types/1/financial_types/1/enable"
+name: Enable  Financial Type
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234492
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,48 @@
+_id: req_8cc4fc19088547a18d57d410f751c0d7
+type: Request
+parentId: fld_e7fbba4ff9b34a868a4cc73e308f0f27
+modified: 1668715159307
+created: 1668715159307
+url: https://internal-api.mercadopago.com/acq/test/v1/commercial-agreement/search
+name: "Search commercial agreement "
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "transaction_date": "2022-05-31",
+        "financed_by": "issuer_financed",
+        "financing_plan": "ahorax",
+        "brand": "visa",
+        "installments": 3,
+        "merchant": {
+            "card_acceptor_id": "37373737373737"
+        },
+        "issuer": {
+            "member_id": "999029999029999029999029"
+        },
+        "processing_type": "dms",
+        "card_type": "credit",
+        "mcc": "MCC",
+        "country": "AR",
+        "acquiring_bin": "27090",
+        "transaction_amount": {
+            "amount": 50,
+            "currency": "ARS"
+        },
+        "card_bin": "545029"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715159307
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

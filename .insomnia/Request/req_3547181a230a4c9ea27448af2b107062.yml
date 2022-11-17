@@ -1,0 +1,25 @@
+_id: req_3547181a230a4c9ea27448af2b107062
+type: Request
+parentId: fld_507eb6a2e53c4cf7aa0af50c4a339dcc
+modified: 1668715454995
+created: 1668715454995
+url: "{{Endpoint}}/v1/userbank/QA"
+name: Find
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  disabled: false
+  token: "{{jwt_signed}}"
+  prefix: ""
+metaSortKey: -1668715454995
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

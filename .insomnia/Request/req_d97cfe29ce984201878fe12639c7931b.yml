@@ -1,0 +1,21 @@
+_id: req_d97cfe29ce984201878fe12639c7931b
+type: Request
+parentId: fld_a9ab434a24dd43f291231e4321655f66
+modified: 1668715234407
+created: 1668715234407
+url: "{{ms_test_base_url}}/capabilities/v1/capability_types/9999"
+name: Disable  Capability  Type error
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234407
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

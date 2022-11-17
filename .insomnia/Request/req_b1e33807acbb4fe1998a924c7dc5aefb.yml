@@ -1,0 +1,24 @@
+_id: req_b1e33807acbb4fe1998a924c7dc5aefb
+type: Request
+parentId: fld_2723922fb42245fc86c063dce3218e96
+modified: 1668715233965
+created: 1668715233965
+url: "{{ms_test_base_url}}/merchants/v1/customers/1/settlement_account/1/mercha\
+  nts/4"
+name: Retrieve Merchant by Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-ac61d211-7a05-437b-ac37-00276b7331f4
+authentication: {}
+metaSortKey: -1668715233965
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

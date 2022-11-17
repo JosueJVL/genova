@@ -1,0 +1,48 @@
+_id: req_a6a21e8f30114ee8b407312a95fe4220
+type: Request
+parentId: fld_e7fbba4ff9b34a868a4cc73e308f0f27
+modified: 1668715159314
+created: 1668715159314
+url: https://internal-api.mercadopago.com/acq/test/v1/commercial-agreement
+name: Create commercial agreement
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "financing_fee_rate": 1,
+        "risk_fee": 3,
+        "installments": 3,
+        "date_start": "2021-05-20",
+        "date_end": "2030-05-20",
+        "financed_by": "issuer_financed",
+        "financing_plan": "ahorax",
+        "brand": "visa",
+        "merchant": {
+            "card_acceptor_id": "37373737373737"
+        },
+        "issuer": {
+            "member_id": "999029999029999029999029"
+        },
+        "processing_type": "dms",
+        "card_type": "credit",
+        "mcc": "MCC",
+        "country": "AR",
+        "acquiring_bin": "27090",
+        "card_bins":["ALL_CARD_BINS"],
+        "card_bins_excluded": ["99999"]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715159314
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

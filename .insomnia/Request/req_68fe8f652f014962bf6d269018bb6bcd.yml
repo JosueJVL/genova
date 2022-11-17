@@ -1,0 +1,21 @@
+_id: req_68fe8f652f014962bf6d269018bb6bcd
+type: Request
+parentId: fld_d8879a6cd6164284805db9befdbbf1d6
+modified: 1668715233935
+created: 1668715233935
+url: "{{ms_test_base_url}}/merchants/v1/merchants/9999/financial_types/2/enable"
+name: Enable Merchant Financial Type error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715233935
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

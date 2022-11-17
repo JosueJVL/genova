@@ -1,0 +1,25 @@
+_id: req_864ea07530bc482a98a0128665ff727d
+type: Request
+parentId: fld_01412927f7fd4ddea7e96969fcc2c8b4
+modified: 1668715352887
+created: 1668715352887
+url: "{{Endpoint}}{{version}}/securityGroup/owner/jvicencio"
+name: Get By OwnerId
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: applicant_search_mocked
+  - name: X-Auth
+    value: jvicencio-1f264924-66f3-495a-955c-1a795da57c95
+authentication: {}
+metaSortKey: -1668715352887
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

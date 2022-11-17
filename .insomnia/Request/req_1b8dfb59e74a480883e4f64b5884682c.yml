@@ -1,0 +1,21 @@
+_id: req_1b8dfb59e74a480883e4f64b5884682c
+type: Request
+parentId: fld_bb14a0690a834219b3b9e032eb95c15e
+modified: 1668714918938
+created: 1668714918938
+url: "{{settlement_queries}}/date_shift/search/AR/ARS"
+name: Get Payment Schedule
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918938
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

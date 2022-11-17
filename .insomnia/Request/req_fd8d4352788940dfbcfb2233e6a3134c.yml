@@ -1,0 +1,22 @@
+_id: req_fd8d4352788940dfbcfb2233e6a3134c
+type: Request
+parentId: fld_a3b8447cf1494362a6bc713122767578
+modified: 1668714919299
+created: 1668714919299
+url: "{{advances}}/advances/private-agreement/daily_control?date_from=2021-05-1\
+  5&date_to=2022-01-14"
+name: Get daily control
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919299
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

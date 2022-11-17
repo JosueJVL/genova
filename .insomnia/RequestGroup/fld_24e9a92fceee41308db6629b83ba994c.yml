@@ -1,0 +1,12 @@
+_id: fld_24e9a92fceee41308db6629b83ba994c
+type: RequestGroup
+parentId: wrk_a48e511f753943208f1cbbbded85f531
+modified: 1668715468014
+created: 1668715142270
+name: "** PAYMENT ORDERS **"
+description: ""
+environment:
+  pay-order-v1: https://internal-api.mercadopago.com/acq/test/payment-order/v1
+  pay-order-stg-v1: https://internal-api.mercadopago.com/acq/staging/payment-order/v1
+environmentPropertyOrder: null
+metaSortKey: -1668715455012.5

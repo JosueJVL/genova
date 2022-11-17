@@ -1,0 +1,32 @@
+_id: req_4314730773d847109237ce1df2253105
+type: Request
+parentId: fld_d8879a6cd6164284805db9befdbbf1d6
+modified: 1668715233945
+created: 1668715233945
+url: "{{ms_test_base_url}}/merchants/v1/merchants/2015/financial_types/3"
+name: Create Merchant Financial Type
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |
+    {
+       "default": false,
+        "start_valid_date": "2022-08-15T00:00:00Z"
+
+    }
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-331c0cce-4a97-48dc-84a5-9b8af7824d96
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715233945
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

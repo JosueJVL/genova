@@ -1,0 +1,39 @@
+_id: req_9b1b51b0038441a1bf42bc8ec247278f
+type: Request
+parentId: fld_1ecd39bad26940b186c8528e2cdf5766
+modified: 1668715234812
+created: 1668715234812
+url: "{{ms_test_base_url}}/pricing/v1/products"
+name: Create Product
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "country": "BRA",
+        "brand": "mastercard",
+        "type": "credit",
+        "card_present": true,
+        "international": false,
+        "processing_mode": "sms",
+        "plan_type_id": 1,
+        "installments": [
+            {"id": 1},
+            {"id": 2},
+            {"id": 3}
+        ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234812
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

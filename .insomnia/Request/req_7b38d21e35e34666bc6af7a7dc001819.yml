@@ -1,0 +1,21 @@
+_id: req_7b38d21e35e34666bc6af7a7dc001819
+type: Request
+parentId: fld_bb14a0690a834219b3b9e032eb95c15e
+modified: 1668714918942
+created: 1668714918942
+url: "{{settlement_queries}}/currency/getall"
+name: Get currency
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918942
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_4b505a664cad4f36a94f6a079a841978
+type: Request
+parentId: fld_01412927f7fd4ddea7e96969fcc2c8b4
+modified: 1668715352879
+created: 1668715352879
+url: "{{Endpoint}}{{version}}/securityGroup/user/emihernandez/applications"
+name: Find Application By user
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352879
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

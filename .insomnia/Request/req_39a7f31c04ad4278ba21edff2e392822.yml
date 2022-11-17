@@ -1,0 +1,21 @@
+_id: req_39a7f31c04ad4278ba21edff2e392822
+type: Request
+parentId: fld_a9ab434a24dd43f291231e4321655f66
+modified: 1668715234417
+created: 1668715234417
+url: "{{ms_test_base_url}}/capabilities/v1/capability_types/9999"
+name: Update  Capability  Type error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234417
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

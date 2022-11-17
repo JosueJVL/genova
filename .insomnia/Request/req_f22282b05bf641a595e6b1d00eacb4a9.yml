@@ -1,0 +1,34 @@
+_id: req_f22282b05bf641a595e6b1d00eacb4a9
+type: Request
+parentId: fld_331ff6fb45c949e3a9d44b4f661852ba
+modified: 1668715352838
+created: 1668715352838
+url: "{{Endpoint}}{{version}}/assignment"
+name: Create Assign Admin
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "security_group": {
+            "id": 1
+        },
+        "user": {
+            "userId": "devtres"
+        },
+        "role": "viewer"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352838
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

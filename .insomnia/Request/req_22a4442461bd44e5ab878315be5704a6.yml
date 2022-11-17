@@ -1,0 +1,21 @@
+_id: req_22a4442461bd44e5ab878315be5704a6
+type: Request
+parentId: fld_10264d394ffa4d92abd09307104aa402
+modified: 1668715233890
+created: 1668715233890
+url: "{{ms_test_base_url}}/merchants/v1/merchants/1/pricing_rates/2"
+name: Disable Merchant Discount rates
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715233890
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

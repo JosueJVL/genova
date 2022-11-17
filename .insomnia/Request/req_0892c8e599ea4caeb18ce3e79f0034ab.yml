@@ -1,0 +1,24 @@
+_id: req_0892c8e599ea4caeb18ce3e79f0034ab
+type: Request
+parentId: fld_f3b4403e12434dbe82e8dbcaa962299d
+modified: 1668715234109
+created: 1668715234109
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/1/set\
+  tings/2/enable"
+name: Enable Acquirer Setting
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: "123456"
+authentication: {}
+metaSortKey: -1668715234109
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

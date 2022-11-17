@@ -1,0 +1,38 @@
+_id: req_f32c7f9f0a954021a1baef081d1ccc8b
+type: Request
+parentId: fld_e7fbba4ff9b34a868a4cc73e308f0f27
+modified: 1668715159301
+created: 1668715159301
+url: https://internal-api.mercadopago.com/acq/test/v1/commercial-agreement/snapshot/d528ea1b-5e5f-41f7-9954-e809095ca8c6
+name: Get snapshot commercial agreement
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: |-
+    {
+        "date": "2020-03-12",
+        "amount": 10.1,
+        "financing_plan": "ahora12",
+        "issuer": {
+            "member_id": "123"
+        },
+        "merchant": {
+            "member_id": "123"
+        },
+        "mcc": "mcc",
+        "acquiring_bin": "123"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715159301
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

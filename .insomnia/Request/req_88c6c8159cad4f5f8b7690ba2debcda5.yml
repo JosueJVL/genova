@@ -1,0 +1,35 @@
+_id: req_88c6c8159cad4f5f8b7690ba2debcda5
+type: Request
+parentId: fld_ca3ebfe3bbfa45e5b290130c2377f480
+modified: 1668715352817
+created: 1668715352817
+url: "{{Endpoint}}{{version}}/inputcontrol"
+name: Update Input
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "inputId": 1,
+        "pageId": 1,
+        "resourceId": 1,
+        "inputName": "dateFrom",
+        "isActive": true,
+        "messageId": 1,
+        "target": "Ayuda1",
+        "message": "Esto es un mensaje de ayuda updated"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352817
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

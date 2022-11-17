@@ -1,0 +1,21 @@
+_id: req_69c4fec781ee47b0a4e472711f6ebfa9
+type: Request
+parentId: fld_e735ea45c23047b0bedaf6339431aa73
+modified: 1668715352840
+created: 1668715352840
+url: https://internal-api.mercadopago.com/acq/test/api-roles/v1/role/1/application/49
+name: Resouces from Role LOCAL
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352840
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

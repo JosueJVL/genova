@@ -1,0 +1,23 @@
+_id: req_ae30d2a006b340309f17c9a13d67c6d7
+type: Request
+parentId: fld_a921470fb7bb49629730e8e6a024ad92
+modified: 1668715234391
+created: 1668715234391
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/enable"
+name: Enable Organization
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715234391
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

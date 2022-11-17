@@ -1,0 +1,21 @@
+_id: req_24db406617dd4bbb8bf948df741d5fc9
+type: Request
+parentId: fld_69c47965310c4dfbbe2e9ecc2f961973
+modified: 1668714918543
+created: 1668714918543
+url: https://local.adminml.com:8443/api/commercialAgreements/search?country=AR&brand=master
+name: Payment orders Copy
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918544
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

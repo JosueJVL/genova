@@ -1,0 +1,23 @@
+_id: req_1d5e3370b2ed437ab8fd45176c3e6cac
+type: Request
+parentId: fld_939cdfe7483b4ae1baaf881c077f6f7d
+modified: 1668715234527
+created: 1668715234527
+url: "{{ms_test_base_url}}/financials/v1/plan_types/1/financial_types/27"
+name: Retrieve  Financial Type by Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-c519485c-4da6-4a3c-b301-051eb25bf79d
+authentication: {}
+metaSortKey: -1668715234527
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

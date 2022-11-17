@@ -1,0 +1,21 @@
+_id: req_342954dbbc344cb4871101b3ffaa09a6
+type: Request
+parentId: fld_c9c0797b47834cfe8382f46b02aa6cba
+modified: 1668714918597
+created: 1668714918597
+url: https://internal-api.mercadopago.com/acq-advance-citi-br/staging-api/advances/daily_control?brand=visa&date_from=2022-07-16&date_to=2022-08-15
+name: Daily Control
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918597
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

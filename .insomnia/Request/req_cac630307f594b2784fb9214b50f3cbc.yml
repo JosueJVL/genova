@@ -1,0 +1,23 @@
+_id: req_cac630307f594b2784fb9214b50f3cbc
+type: Request
+parentId: fld_78ae81a44795492c96a897baf54aa23f
+modified: 1668715352794
+created: 1668715352794
+url: https://devroles.melioffice.com/ping
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: jvicencio-faa4811c-7632-4934-8210-e744bad9acaa
+authentication: {}
+metaSortKey: -1668715352794
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

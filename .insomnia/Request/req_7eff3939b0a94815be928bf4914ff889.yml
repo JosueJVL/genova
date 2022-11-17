@@ -1,0 +1,21 @@
+_id: req_7eff3939b0a94815be928bf4914ff889
+type: Request
+parentId: fld_e7fbba4ff9b34a868a4cc73e308f0f27
+modified: 1668715159312
+created: 1668715159312
+url: https://internal-api.mercadopago.com/acq/test/v1/commercial-agreement/8
+name: "Get commercial agreement "
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715159312
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

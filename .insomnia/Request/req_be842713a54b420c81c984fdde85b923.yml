@@ -1,0 +1,21 @@
+_id: req_be842713a54b420c81c984fdde85b923
+type: Request
+parentId: fld_999e8113bf8c439b8452f09e22f002fb
+modified: 1668714919315
+created: 1668714919315
+url: "{{advances}}/banks/advance-banks?order=name"
+name: Get advance Banks
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919315
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_0c2091ccd5fa48df856616791d7ef1d5
+type: Request
+parentId: fld_8209a812d5ba4ad8ad98c7bf7537ca5a
+modified: 1668715224594
+created: 1668715224594
+url: https://internal-api.mercadopago.com/acq/test/v1/payment-order-reports/merchants/get-url?name=2022-04-13_mercadolibre.pdf
+name: Merchant Get URL
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715224594
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

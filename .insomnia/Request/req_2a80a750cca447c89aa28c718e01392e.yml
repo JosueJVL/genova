@@ -1,0 +1,33 @@
+_id: req_2a80a750cca447c89aa28c718e01392e
+type: Request
+parentId: fld_16561b2a8cd34f2b9a9540897189a73b
+modified: 1668715353081
+created: 1668715353081
+url: "{{Endpoint}}{{version}}/application"
+name: Application
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "name": "File Manager v2",
+        "subDomain": "acq-payment-schedule",
+        "url": "acq-payment-schedule.adminml.com",
+        "domainId": "1",
+        "isActive": true,
+        "securityGroup": 2
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715353081
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

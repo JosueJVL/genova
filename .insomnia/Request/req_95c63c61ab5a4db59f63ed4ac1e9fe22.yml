@@ -1,0 +1,21 @@
+_id: req_95c63c61ab5a4db59f63ed4ac1e9fe22
+type: Request
+parentId: fld_5e2e3a77e6e04ff3afbb2351817b392b
+modified: 1668714918892
+created: 1668714918892
+url: "{{conciliation}}/consistency/get_states_and_errors"
+name: Get states and errors
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918892
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

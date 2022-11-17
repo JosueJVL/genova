@@ -1,0 +1,23 @@
+_id: req_1dc6724be284465780e7252fad5cc3d3
+type: Request
+parentId: fld_0b7a426199274c68b5e06c98ed36c063
+modified: 1668715234021
+created: 1668715234021
+url: "{{ms_test_base_url}}/routings/v1/clearing_routings/22"
+name: Retrieve Clearing Routings Mastercard by Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715234021
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

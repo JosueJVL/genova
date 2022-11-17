@@ -1,0 +1,23 @@
+_id: req_e5a3065000c84163bd6d16ec6947ba9a
+type: Request
+parentId: fld_41ce491ba88e4a998ee4bc66ad13c8ec
+modified: 1668715353244
+created: 1668715353244
+url: "{{Endpoint}}{{version}}/role"
+name: Role
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: jvicencio-faa4811c-7632-4934-8210-e744bad9acaa
+authentication: {}
+metaSortKey: -1668715353244
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

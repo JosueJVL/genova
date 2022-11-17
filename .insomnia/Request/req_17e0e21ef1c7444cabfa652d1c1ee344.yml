@@ -1,0 +1,31 @@
+_id: req_17e0e21ef1c7444cabfa652d1c1ee344
+type: Request
+parentId: fld_01412927f7fd4ddea7e96969fcc2c8b4
+modified: 1668715352870
+created: 1668715352870
+url: "{{Endpoint}}{{version}}/securityGroup"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "name": "admins mx",
+        "description": "admins mx",
+        "owner": "test owner",
+        "createdBy": "test owner"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352870
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

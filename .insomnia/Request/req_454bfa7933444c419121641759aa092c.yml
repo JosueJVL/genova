@@ -1,0 +1,23 @@
+_id: req_454bfa7933444c419121641759aa092c
+type: Request
+parentId: fld_0b7a426199274c68b5e06c98ed36c063
+modified: 1668715234015
+created: 1668715234015
+url: "{{ms_test_base_url}}/routings/v1/clearing_routings/search"
+name: Retrieve Clearing Routings Mastercard
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-4fa202d2-6889-4303-9aff-206733a4fb57
+authentication: {}
+metaSortKey: -1668715234015
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

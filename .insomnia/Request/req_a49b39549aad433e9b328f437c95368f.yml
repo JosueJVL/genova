@@ -1,0 +1,21 @@
+_id: req_a49b39549aad433e9b328f437c95368f
+type: Request
+parentId: fld_c11b7db96f144b8d9ab6deb4a70d9c6a
+modified: 1668714919494
+created: 1668714919494
+url: https://internal-api.mercadopago.com/acq-ss/staging-api/bari/constants/search
+name: CONSTANTS bari
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919494
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

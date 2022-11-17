@@ -1,0 +1,21 @@
+_id: req_47e166e1979d4402974d6afbe05eb0c8
+type: Request
+parentId: fld_f1704e4cdaa848b1b2f9eb50022e877d
+modified: 1668715234962
+created: 1668715234962
+url: "{{ms_test_base_url}}/customers/v1/payment_facilitators/search?id=9999"
+name: Retrieve Payment Facilitator error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234962
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

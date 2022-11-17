@@ -1,0 +1,21 @@
+_id: req_41f892dddfdd401f91a6ea3024575a8f
+type: Request
+parentId: fld_999e8113bf8c439b8452f09e22f002fb
+modified: 1668714919313
+created: 1668714919313
+url: "{{advances}}/banks/issuer-banks?=order=name&include_ids=true"
+name: Get issuer bank list
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919313
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

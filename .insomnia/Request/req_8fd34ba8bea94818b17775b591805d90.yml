@@ -1,0 +1,21 @@
+_id: req_8fd34ba8bea94818b17775b591805d90
+type: Request
+parentId: fld_ba4e015567eb4730a886c2faab4e6c45
+modified: 1668715234270
+created: 1668715234270
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/9999"
+name: Update Acquirer License error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234270
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

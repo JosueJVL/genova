@@ -1,0 +1,31 @@
+_id: req_6face83a94f04d1eb88fa00697cc4d24
+type: Request
+parentId: fld_768430347b2c45d5b8b5fa9a8a9f8a10
+modified: 1668715352853
+created: 1668715352853
+url: https://internal-api.mercadopago.com/acq/test/api-roles/v1/role/1/resource/56
+name: Original update assig resource
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "roleId": 1,
+        "resourceId": 56,
+        "validTo": "2022-12-13",
+        "requireAuthorization": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352853
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

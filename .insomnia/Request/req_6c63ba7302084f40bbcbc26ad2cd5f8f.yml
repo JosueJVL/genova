@@ -1,0 +1,21 @@
+_id: req_6c63ba7302084f40bbcbc26ad2cd5f8f
+type: Request
+parentId: fld_9c13170d064248cdb97fda438bd0170c
+modified: 1668715234686
+created: 1668715234686
+url: "{{ms_test_base_url}}/pricing/v1/products/1/pricing_rates/1/enable"
+name: Enable Pricing rate
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234686
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

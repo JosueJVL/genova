@@ -1,0 +1,21 @@
+_id: req_7fa93a6fc4e342e3921eb2d17c260d07
+type: Request
+parentId: fld_9631f21d570642f5a50c6f73f58719c0
+modified: 1668714919144
+created: 1668714919144
+url: "{{merchant-schedule}}/constants/search"
+name: Get constants Merchant
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919144
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

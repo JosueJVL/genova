@@ -1,0 +1,46 @@
+_id: req_172c808a242244dd85352a41e8e0fa7d
+type: Request
+parentId: fld_e7855571055f42079c884337fd8157de
+modified: 1668715235094
+created: 1668715235094
+url: "{{ms_test_base_url}}/customers/v1/customers"
+name: Create Customer
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "name": "MP BRA",
+        "description": "Merchant for mercado pago processing in Brazil",
+        "default_gateway_id": "",
+        "organization_id": 1,
+        "fiscal_data": {
+            "name": "MERCADOLIVRE",
+            "tax_id": "1234",
+            "postal_zip": "06233-903",
+            "street_address": "Avenida das Nações Unidas 3003 Parte D. Bonfim",
+            "city": "Osasco",
+            "state": "SP",
+            "country": "BRA",
+            "legal_name": "Sociedade Limitada de Vendas por Atacado",
+            "fiscal_condition": "Aceitável",
+            "document_type": "CNPJ",
+            "document_value": "10573521000191"
+          }
+    }
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715235094
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

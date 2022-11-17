@@ -1,0 +1,21 @@
+_id: req_35af694a89dd405e997ebe09f10faebe
+type: Request
+parentId: fld_e1471ea7d6a841138f27e59c14aa53c3
+modified: 1668715352805
+created: 1668715352805
+url: "{{Endpoint}}{{version}}/message/51112"
+name: Message - Delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352805
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

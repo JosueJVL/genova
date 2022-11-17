@@ -1,0 +1,21 @@
+_id: req_92f791a1a6404e0688a7f0a216c931d7
+type: Request
+parentId: fld_8f33f32bd94c415e8ee65eb0daf0ca51
+modified: 1668714918552
+created: 1668714918552
+url: https://internal-api.mercadopago.com/acq-advance-ar/staging-api/generic_summarizer/daily_result/search_detail?data_source=advance_merchant_payments&date=2022-06-03&processing_date=2022-06-28&country=AR
+name: Canuti Detail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918552
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

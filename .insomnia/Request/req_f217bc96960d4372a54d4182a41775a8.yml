@@ -1,0 +1,26 @@
+_id: req_f217bc96960d4372a54d4182a41775a8
+type: Request
+parentId: fld_46312869f6024711a22fad4188332fcf
+modified: 1668715123775
+created: 1668715123775
+url: "{{internal}}/acq/storage/dump/bundle/stg-os-bundles/YTF.AR.T121.M.E007065\
+  4.D211221.T132110.A001-20211221T201601-9f85e2a8-20211221T201601-b4cd051b"
+name: Get Download File
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth-Token
+    value: developerlocal
+  - name: caller
+    value: acq-file-manager-admin
+authentication: {}
+metaSortKey: -1668715123775
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

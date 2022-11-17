@@ -1,0 +1,22 @@
+_id: req_3488b19109c841c7aa67e5c01432e3c3
+type: Request
+parentId: fld_f1704e4cdaa848b1b2f9eb50022e877d
+modified: 1668715234968
+created: 1668715234968
+url: "{{ms_test_base_url}}/customers/v1/payment_facilitators/search?brand=visa&\
+  page_size=10"
+name: Retrieve Payment Facilitator
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234968
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

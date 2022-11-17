@@ -1,0 +1,34 @@
+_id: req_280b81bea07a491480b781ad962a46bb
+type: Request
+parentId: fld_f3b4403e12434dbe82e8dbcaa962299d
+modified: 1668715234155
+created: 1668715234155
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/1/set\
+  tings/2"
+name: Update Acquirer Setting error
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "settlement_currency_code": "032",
+        "bin": "270917",
+        "ica": 23290,
+        "start_valid_date": "2022-07-19T17:00:00.000Z"
+    }
+parameters: []
+headers:
+  - name: x-user-session
+    value: "123456"
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234155
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

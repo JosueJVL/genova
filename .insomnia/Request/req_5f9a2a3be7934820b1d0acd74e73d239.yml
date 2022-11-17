@@ -1,0 +1,22 @@
+_id: req_5f9a2a3be7934820b1d0acd74e73d239
+type: Request
+parentId: fld_2723922fb42245fc86c063dce3218e96
+modified: 1668715233948
+created: 1668715233948
+url: "{{ms_test_base_url}}/merchants/v1/customers/1/settlement_accounts/1/merch\
+  ants/9999"
+name: Disable Merchant error
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715233948
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

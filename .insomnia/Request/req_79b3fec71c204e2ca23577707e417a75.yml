@@ -1,0 +1,21 @@
+_id: req_79b3fec71c204e2ca23577707e417a75
+type: Request
+parentId: fld_7484284a93b2402fa52526e2df29ad1b
+modified: 1668714918605
+created: 1668714918605
+url: https://internal-api.mercadopago.com/acq-advance-citi-br/staging-api/files/download?id=47&agreement_file=true
+name: File Download
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918605
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

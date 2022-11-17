@@ -1,0 +1,29 @@
+_id: req_c4c7d3b9be024858b8aff1f0c06dc02c
+type: Request
+parentId: fld_c9bc7d0cd67645639084b4b7853eee77
+modified: 1668715435940
+created: 1668715435940
+url: https://internal-api.mercadopago.com/acq/test/userdata-bank/v1/loggerbank/downloadfile
+name: Download File
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "userid": "developer",
+        "fileid": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715435940
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

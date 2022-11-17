@@ -1,0 +1,25 @@
+_id: req_e39a6c476f8d4fec882193a2bf326bd7
+type: Request
+parentId: fld_507eb6a2e53c4cf7aa0af50c4a339dcc
+modified: 1668715454993
+created: 1668715454993
+url: "{{Endpoint}}/userbank/10"
+name: Delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  disabled: false
+  token: "{{jwt_signed}}"
+  prefix: ""
+metaSortKey: -1668715454993
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

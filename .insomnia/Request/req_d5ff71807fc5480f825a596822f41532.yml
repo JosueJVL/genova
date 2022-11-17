@@ -1,0 +1,21 @@
+_id: req_d5ff71807fc5480f825a596822f41532
+type: Request
+parentId: fld_ba4e015567eb4730a886c2faab4e6c45
+modified: 1668715234197
+created: 1668715234197
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/9999"
+name: Disable Acquirer License error
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234197
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

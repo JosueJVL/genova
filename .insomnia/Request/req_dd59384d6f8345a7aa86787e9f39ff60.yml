@@ -1,0 +1,21 @@
+_id: req_dd59384d6f8345a7aa86787e9f39ff60
+type: Request
+parentId: fld_cd8813edd31949469472e420c3837dbf
+modified: 1668715353110
+created: 1668715353110
+url: "{{Endpoint}}{{version}}/application/types"
+name: Get All types
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715353110
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

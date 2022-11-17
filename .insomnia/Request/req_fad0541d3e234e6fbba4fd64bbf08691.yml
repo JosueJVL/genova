@@ -1,0 +1,30 @@
+_id: req_fad0541d3e234e6fbba4fd64bbf08691
+type: Request
+parentId: fld_9c85c01dec644986b69d805466ca42e2
+modified: 1668714918591
+created: 1668714918591
+url: https://internal-api.mercadopago.com/acq/test/api-cache/test-cache
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |
+    {
+        "keyName": "test",
+        "value": "test postman",
+        "createdAt": "2022-03-01T10:48:00.000Z"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668714918591
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

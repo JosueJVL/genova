@@ -1,0 +1,23 @@
+_id: req_2c5ed6518e454a3998434941882e506f
+type: Request
+parentId: fld_d8879a6cd6164284805db9befdbbf1d6
+modified: 1668715233934
+created: 1668715233934
+url: "{{ms_test_base_url}}/merchants/v1/merchants/6671/financial_types/22"
+name: Disable Merchant Financial Type
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-94054c94-575d-4183-b696-f46aa0e3c2b1
+authentication: {}
+metaSortKey: -1668715233934
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

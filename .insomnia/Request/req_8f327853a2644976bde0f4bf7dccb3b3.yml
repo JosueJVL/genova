@@ -1,0 +1,21 @@
+_id: req_8f327853a2644976bde0f4bf7dccb3b3
+type: Request
+parentId: fld_939cdfe7483b4ae1baaf881c077f6f7d
+modified: 1668715234470
+created: 1668715234470
+url: "{{ms_test_base_url}}/financials/v1/plan_types/1/financial_types/1"
+name: Disable  Financial Type
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234470
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

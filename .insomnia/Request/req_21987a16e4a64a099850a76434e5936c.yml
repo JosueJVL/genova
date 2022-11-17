@@ -1,0 +1,21 @@
+_id: req_21987a16e4a64a099850a76434e5936c
+type: Request
+parentId: fld_c727e51ea1604361a8fdf9dcd0a49d06
+modified: 1668715234426
+created: 1668715234426
+url: "{{ms_test_base_url}}/financials/v1/installments/1"
+name: Disable  Installment
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234426
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

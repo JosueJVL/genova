@@ -1,0 +1,23 @@
+_id: req_27f2da11f47047b8b889b61b8865c825
+type: Request
+parentId: fld_e7855571055f42079c884337fd8157de
+modified: 1668715235036
+created: 1668715235036
+url: "{{ms_test_base_url}}/customers/v1/customers/10/enable"
+name: Enable  Customer
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715235036
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

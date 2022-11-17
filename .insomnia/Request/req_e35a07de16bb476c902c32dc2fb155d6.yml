@@ -1,0 +1,21 @@
+_id: req_e35a07de16bb476c902c32dc2fb155d6
+type: Request
+parentId: fld_cd53055cf06f4b9aa04ed939417e8f91
+modified: 1668714919369
+created: 1668714919369
+url: ""
+name: Report Search
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919369
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

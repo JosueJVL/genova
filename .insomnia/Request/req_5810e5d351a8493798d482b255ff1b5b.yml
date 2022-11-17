@@ -1,0 +1,21 @@
+_id: req_5810e5d351a8493798d482b255ff1b5b
+type: Request
+parentId: fld_c11b7db96f144b8d9ab6deb4a70d9c6a
+modified: 1668714919492
+created: 1668714919492
+url: https://internal-api.mercadopago.com/acq-ss/test-staging/bari/members/getall
+name: MEmbers Bari
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919492
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

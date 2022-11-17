@@ -1,0 +1,21 @@
+_id: req_2128b3421ec746498e1845284999b3a8
+type: Request
+parentId: fld_986e9cbc62d44a809b7fdd5aaff540e6
+modified: 1668715211904
+created: 1668715211904
+url: https://internal-api.mercadopago.com/acq/etl/v1/transactions/CAQABAQKqd_TVaOOyFF8gKlx2PjHSEnssF49my0jRAssQvJerooAUAmbVF41QHe?version=1.0.*
+name: Get by ID Error Invalid id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715211904
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

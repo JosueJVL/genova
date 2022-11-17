@@ -1,0 +1,45 @@
+_id: req_7cef20039c4b4661a7b771ce39279706
+type: Request
+parentId: fld_ba4e015567eb4730a886c2faab4e6c45
+modified: 1668715234281
+created: 1668715234281
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/1"
+name: Update Acquirer License
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |
+    {
+        "country": "ARG",
+        "brand": "mastercard",
+        "endpoint": "0070654",
+        "token_requestor_id": "50110540444",
+        "acquirer_discount_rates_id": [
+            2
+        ],
+        "acquirer_settings": [
+        {
+            "id": 1,
+            "settlement_currency_code": "032",
+            "bin": "123456",
+            "ica": "678908"
+        }
+        ],
+        "start_valid_date": "2022-07-21T00:00:00Z"
+    }
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234281
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

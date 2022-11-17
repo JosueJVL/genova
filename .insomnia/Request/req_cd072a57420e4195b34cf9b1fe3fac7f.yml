@@ -1,0 +1,22 @@
+_id: req_cd072a57420e4195b34cf9b1fe3fac7f
+type: Request
+parentId: fld_162f9f92bd884d01a26f9ff029f0b317
+modified: 1668714919260
+created: 1668714919260
+url: "{{cerc}}/urs/search?from=2021-11-30&to=2022-01-14&merchant_id=1&status=Op\
+  en&status=Pending&status=Payed&status=Error&status=Closed"
+name: Get Urs
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919260
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

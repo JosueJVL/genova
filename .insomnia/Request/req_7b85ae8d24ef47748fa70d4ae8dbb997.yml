@@ -1,0 +1,22 @@
+_id: req_7b85ae8d24ef47748fa70d4ae8dbb997
+type: Request
+parentId: fld_f3b4403e12434dbe82e8dbcaa962299d
+modified: 1668715234098
+created: 1668715234098
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/9999/\
+  settings/1/enable"
+name: Enable Acquirer Setting error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234098
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

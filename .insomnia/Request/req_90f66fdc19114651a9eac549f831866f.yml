@@ -1,0 +1,21 @@
+_id: req_90f66fdc19114651a9eac549f831866f
+type: Request
+parentId: fld_ca3ebfe3bbfa45e5b290130c2377f480
+modified: 1668715352819
+created: 1668715352819
+url: "{{Endpoint}}{{version}}/inputcontrol/1"
+name: Page Inputs
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352819
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,31 @@
+_id: req_d7870cf9228f4793b5196e869e744ba0
+type: Request
+parentId: fld_d8879a6cd6164284805db9befdbbf1d6
+modified: 1668715233942
+created: 1668715233942
+url: "{{ms_test_base_url}}/merchants/v1/merchants/1/financial_types/2/set_default"
+name: Set default Merchant Financial Type
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |
+    {
+        "start_valid_date": "2022-04-05T00:00:00Z"
+
+    }
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-424f50ad-bfc1-4bcb-b6c5-54cf6bb67049
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715233942
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

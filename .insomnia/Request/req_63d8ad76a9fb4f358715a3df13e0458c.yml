@@ -1,0 +1,45 @@
+_id: req_63d8ad76a9fb4f358715a3df13e0458c
+type: Request
+parentId: fld_ef6b4c0932904878bb540fa672ee90b4
+modified: 1668715234913
+created: 1668715234913
+url: "{{ms_test_base_url}}/customers/v1/customers/1/settlement_accounts"
+name: Create Settlement Account
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |
+    {
+        "description": "MP BRA CERC",
+        "country": "BRA",
+        "banking_data": {
+             "account_number": "10573521-",
+            "account_type": "CC",
+            "agency":  "0001",
+            "compe": "323",
+            "document_value": "10573521000191",
+            "document_type": "CNPJ",
+            "ispb": "10573521",
+            "account_bank": "",
+            "account_branch":"",
+            "account_owner": "",
+            "cbu": ""
+        }
+
+    }
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234913
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

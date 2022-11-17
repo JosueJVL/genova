@@ -1,0 +1,36 @@
+_id: req_8400455e6200433dae34b1915786bf68
+type: Request
+parentId: fld_9c13170d064248cdb97fda438bd0170c
+modified: 1668715234735
+created: 1668715234735
+url: "{{ms_test_base_url}}/pricing/v1/products/1/pricing_rates"
+name: Create Pricing rate
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |
+    {
+        "description": "Discount for credit BRA",
+        "valid_date_from": "2022-04-05T00:00:00Z",
+        "valid_date_to": "2026-04-05T00:00:00Z",
+        "rate": 0,
+        "installments": [
+            {"id": 1},
+            {"id": 2},
+            {"id": 3}
+        ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234735
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

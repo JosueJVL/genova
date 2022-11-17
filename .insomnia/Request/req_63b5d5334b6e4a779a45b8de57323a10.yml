@@ -1,0 +1,21 @@
+_id: req_63b5d5334b6e4a779a45b8de57323a10
+type: Request
+parentId: fld_fe75fba1c81a4e8687433a70ad304109
+modified: 1668715353209
+created: 1668715353209
+url: "{{Endpoint}}{{version}}/domain"
+name: Get Domain
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715353209
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

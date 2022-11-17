@@ -1,0 +1,22 @@
+_id: req_faca78f5a3664d0fa35cefb632615e4a
+type: Request
+parentId: fld_0ceaf2599eaa443b8a5f8c16fe2fb486
+modified: 1668714919064
+created: 1668714919064
+url: "{{brand_reporting}}/bari/vi/file/search?date_from=2022-04-18&date_to=2022\
+  -05-15&country=BR&status=Received&status=Notified"
+name: Get Files - TECBAN - BARI -
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919064
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

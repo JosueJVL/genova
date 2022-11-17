@@ -1,0 +1,23 @@
+_id: req_6ac971f9c4ee485d96f2175b4c455e50
+type: Request
+parentId: fld_cd30d2e37e814c2892ba009a09105f46
+modified: 1668715233879
+created: 1668715233879
+url: "{{ms_test_base_url}}/merchants/v1/merchants/1/acquirer_settings/2"
+name: Disable Merchant Acquirer Setting
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-331c0cce-4a97-48dc-84a5-9b8af7824d96
+authentication: {}
+metaSortKey: -1668715233879
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

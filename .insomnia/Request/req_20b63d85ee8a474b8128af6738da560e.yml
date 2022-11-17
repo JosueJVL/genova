@@ -1,0 +1,23 @@
+_id: req_20b63d85ee8a474b8128af6738da560e
+type: Request
+parentId: fld_ba4e015567eb4730a886c2faab4e6c45
+modified: 1668715234262
+created: 1668715234262
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/1"
+name: Retrieve Acquirer License by Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715234262
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

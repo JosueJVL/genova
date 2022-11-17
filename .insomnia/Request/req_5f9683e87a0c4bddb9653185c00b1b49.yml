@@ -1,0 +1,31 @@
+_id: req_5f9683e87a0c4bddb9653185c00b1b49
+type: Request
+parentId: fld_e1471ea7d6a841138f27e59c14aa53c3
+modified: 1668715352809
+created: 1668715352809
+url: "{{Endpoint}}{{version}}/message"
+name: Message - Create
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+    "inputId": 51112,
+    "pageId": 1,
+    "target": "Titulo creado",
+    "messageText": "Esto es una ayuda creada"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352809
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

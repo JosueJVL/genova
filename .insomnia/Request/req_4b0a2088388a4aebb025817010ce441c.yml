@@ -1,0 +1,30 @@
+_id: req_4b0a2088388a4aebb025817010ce441c
+type: Request
+parentId: fld_8933959008724f1c9f72e3edcdd5060e
+modified: 1668715234646
+created: 1668715234646
+url: "{{ms_test_base_url}}/financials/v1/plan_types"
+name: Create Plan Type
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "description": "issuer_financed"
+    }
+parameters: []
+headers:
+  - name: x-user-session
+    value: "123456"
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234646
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

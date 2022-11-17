@@ -1,0 +1,21 @@
+_id: req_d2ce4ed9908c4250b0737b070871a62f
+type: Request
+parentId: fld_aa0d99a09b974e2db3217f00b1b8dbce
+modified: 1668715211920
+created: 1668715211920
+url: https://internal-api.mercadopago.com/gateway/transactions/g2/35773992310_7c71776d677879757b7
+name: Get by ID Error not found
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715211920
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

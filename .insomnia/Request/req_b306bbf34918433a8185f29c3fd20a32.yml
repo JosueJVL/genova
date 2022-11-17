@@ -1,0 +1,23 @@
+_id: req_b306bbf34918433a8185f29c3fd20a32
+type: Request
+parentId: fld_ba4e015567eb4730a886c2faab4e6c45
+modified: 1668715234204
+created: 1668715234204
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/1"
+name: Disable Acquirer License
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715234204
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

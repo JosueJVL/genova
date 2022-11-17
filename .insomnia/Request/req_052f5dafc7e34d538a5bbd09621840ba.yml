@@ -1,0 +1,32 @@
+_id: req_052f5dafc7e34d538a5bbd09621840ba
+type: Request
+parentId: fld_073756c373a641e4be902f611bfbbd31
+modified: 1668715352824
+created: 1668715352824
+url: "{{Endpoint}}{{version}}/pages/2"
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "resourceId": 1,
+        "pageName": "Report - Test",
+        "path": "test-test-test",
+        "isPathActive": true,
+        "isActive": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352824
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

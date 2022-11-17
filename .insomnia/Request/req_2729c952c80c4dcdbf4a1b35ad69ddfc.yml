@@ -1,0 +1,34 @@
+_id: req_2729c952c80c4dcdbf4a1b35ad69ddfc
+type: Request
+parentId: fld_16561b2a8cd34f2b9a9540897189a73b
+modified: 1668715353073
+created: 1668715353073
+url: "{{Endpoint}}{{version}}/application"
+name: Application
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "applicationId": 1,
+        "name": "ApplicationForTestinggg",
+        "subDomain": "acq-roles-test",
+        "url": "https://acq-roles-test.adminml.com",
+        "domainId": "1",
+        "isActive": true,
+        "securityGroup": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715353073
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

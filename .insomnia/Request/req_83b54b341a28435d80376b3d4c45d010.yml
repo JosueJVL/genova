@@ -1,0 +1,21 @@
+_id: req_83b54b341a28435d80376b3d4c45d010
+type: Request
+parentId: fld_1c63b42832804d33806deb2b0ac2ba5e
+modified: 1668714919042
+created: 1668714919042
+url: ""
+name: Genova Reports
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919042
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

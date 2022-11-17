@@ -1,0 +1,22 @@
+_id: req_f2debb5e05d74fe2a715ce452055aa4b
+type: Request
+parentId: fld_0ceaf2599eaa443b8a5f8c16fe2fb486
+modified: 1668714919072
+created: 1668714919072
+url: "{{brand_reporting}}/bari/vi/file/search?date_from=2022-04-18&date_to=2022\
+  -05-15&country=BR&status=Received&status=Notified"
+name: Get Files - VISA - BARI -
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919072
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_dd3e57c325634abab566468f3e0055c0
+type: Request
+parentId: fld_0ceaf2599eaa443b8a5f8c16fe2fb486
+modified: 1668714919088
+created: 1668714919088
+url: ""
+name: Get Constants brand reporting visa - BARI -
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919088
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

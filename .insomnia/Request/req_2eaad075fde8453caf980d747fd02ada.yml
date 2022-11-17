@@ -1,0 +1,23 @@
+_id: req_2eaad075fde8453caf980d747fd02ada
+type: Request
+parentId: fld_ef6b4c0932904878bb540fa672ee90b4
+modified: 1668715234870
+created: 1668715234870
+url: "{{ms_test_base_url}}customers/v1/settlement_accounts/search?customer_id=1"
+name: Retrieve Settlement Account
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-c5b65c8f-dfaa-4ada-9880-e81342b8d9cd
+authentication: {}
+metaSortKey: -1668715234870
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

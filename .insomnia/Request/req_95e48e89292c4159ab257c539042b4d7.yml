@@ -1,0 +1,21 @@
+_id: req_95e48e89292c4159ab257c539042b4d7
+type: Request
+parentId: fld_0b7a426199274c68b5e06c98ed36c063
+modified: 1668715234005
+created: 1668715234005
+url: "{{ms_test_base_url}}/routings/v1/clearing_routings/search?batch_type=foo"
+name: Retrieve Clearing Routings Mastercard error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234005
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

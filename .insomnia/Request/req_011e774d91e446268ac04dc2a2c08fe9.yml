@@ -1,0 +1,21 @@
+_id: req_011e774d91e446268ac04dc2a2c08fe9
+type: Request
+parentId: fld_073756c373a641e4be902f611bfbbd31
+modified: 1668715352825
+created: 1668715352825
+url: "{{Endpoint}}{{version}}/pages/1"
+name: Pages - Get by Resource Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352825
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

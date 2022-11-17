@@ -1,0 +1,21 @@
+_id: req_94666c23a15f4cd99678b6fa36a4023b
+type: Request
+parentId: fld_9c13170d064248cdb97fda438bd0170c
+modified: 1668715234695
+created: 1668715234695
+url: "{{ms_test_base_url}}/pricing/v1/pricing_rates/search?id=9999"
+name: Retrieve Pricing rate error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234695
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

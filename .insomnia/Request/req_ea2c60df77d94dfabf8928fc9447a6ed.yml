@@ -1,0 +1,23 @@
+_id: req_ea2c60df77d94dfabf8928fc9447a6ed
+type: Request
+parentId: fld_e7855571055f42079c884337fd8157de
+modified: 1668715235021
+created: 1668715235021
+url: "{{ms_test_base_url}}/customers/v1/customers/10"
+name: Disable  Customer Copy
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715235021
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

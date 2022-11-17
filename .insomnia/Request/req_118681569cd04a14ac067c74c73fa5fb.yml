@@ -1,0 +1,23 @@
+_id: req_118681569cd04a14ac067c74c73fa5fb
+type: Request
+parentId: fld_e7855571055f42079c884337fd8157de
+modified: 1668715235069
+created: 1668715235069
+url: "{{ms_test_base_url}}/customers/v1/customers/1"
+name: Retrieve Customer by Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-9a85db02-8d73-466c-b6aa-1f1fd5794222
+authentication: {}
+metaSortKey: -1668715235069
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

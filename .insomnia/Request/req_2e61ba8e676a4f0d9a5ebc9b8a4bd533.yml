@@ -1,0 +1,23 @@
+_id: req_2e61ba8e676a4f0d9a5ebc9b8a4bd533
+type: Request
+parentId: fld_ba4e015567eb4730a886c2faab4e6c45
+modified: 1668715234228
+created: 1668715234228
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/1/enable"
+name: Enable Acquirer License
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715234228
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

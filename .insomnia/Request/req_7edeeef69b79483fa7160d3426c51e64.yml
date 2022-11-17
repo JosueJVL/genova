@@ -1,0 +1,37 @@
+_id: req_7edeeef69b79483fa7160d3426c51e64
+type: Request
+parentId: fld_507eb6a2e53c4cf7aa0af50c4a339dcc
+modified: 1668715454996
+created: 1668715454996
+url: "{{Endpoint}}/v1/userbank"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "userId": "QA",
+        "mail": "qa@hotmail.com",
+        "financingBankId": 151,
+        "isRequiredAuthorization": true,
+        "IsRequiredLog": false,
+        "dni": "000-000-000"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  disabled: false
+  token: "{{jwt_signed}}"
+  prefix: ""
+metaSortKey: -1668715454996
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

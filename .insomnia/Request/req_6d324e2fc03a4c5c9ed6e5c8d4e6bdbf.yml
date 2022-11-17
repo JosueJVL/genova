@@ -1,0 +1,35 @@
+_id: req_6d324e2fc03a4c5c9ed6e5c8d4e6bdbf
+type: Request
+parentId: fld_939cdfe7483b4ae1baaf881c077f6f7d
+modified: 1668715234552
+created: 1668715234552
+url: "{{ms_test_base_url}}/financials/v1/plan_types/5/financial_types"
+name: Create Plan Type
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |
+    {
+        "minimum_amount": 1,
+        "maximum_amount": 90000,
+        "installments": [
+            {"id": 3},
+            {"id": 6}
+        ]
+    }
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-6d4acf6f-4d16-40b8-b859-bbf6c09e7021
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234552
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

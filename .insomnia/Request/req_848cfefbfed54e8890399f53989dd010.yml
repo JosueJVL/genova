@@ -1,0 +1,32 @@
+_id: req_848cfefbfed54e8890399f53989dd010
+type: Request
+parentId: fld_f1704e4cdaa848b1b2f9eb50022e877d
+modified: 1668715234986
+created: 1668715234986
+url: "{{ms_test_base_url}}/customers/v1/customers/1/payment_facilitators/9999"
+name: Update Payment Facilitator error
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "name": "MERCADOPAGO",
+        "brand": "mastercard",
+        "start_valid_date": "2022-04-05T00:00:00Z"
+    }
+parameters: []
+headers:
+  - name: x-user-session
+    value: "12346"
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234986
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

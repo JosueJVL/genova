@@ -1,0 +1,22 @@
+_id: req_1288eaa6ddb8417ba33c99e06d4dc46a
+type: Request
+parentId: fld_68c03cda61384e8988ca4a5b4684d1ce
+modified: 1668715352864
+created: 1668715352864
+url: "{{Endpoint}}{{version}}/assignment?user_id=&email=hugo.hhernandez@mercado\
+  libre.com.mx"
+name: Find Query
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352864
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

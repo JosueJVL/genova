@@ -1,0 +1,24 @@
+_id: req_ff3c85a720a54dccbf6b099395d9fd83
+type: Request
+parentId: fld_b764f8a99ab4437e9b6c4fedf5b4bac5
+modified: 1668714919475
+created: 1668714919475
+url: "{{settlement_queries}}/bari/settlement_entries_summary/concept_group_name\
+  /search/RC_MASTER_DAILY_SETTLEMENT_POSITION?country=BR&startdate=2022-04-29&e\
+  nddate=2022-05-30&date_type=value&international=false&member_id=9000529718&so\
+  urce_date=2022-04-29"
+name: Get Entries Summary - GENOVA -
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919475
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_e96beb9671724b1d896cb1c0f97c3b4a
+type: Request
+parentId: fld_16561b2a8cd34f2b9a9540897189a73b
+modified: 1668715353061
+created: 1668715353061
+url: "{{Endpoint}}{{version}}/application/5/activate"
+name: Activate
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "applicationId": 3,
+        "name": "Admin Externo",
+        "subDomain": "acq-admin-externo",
+        "url": "acq-admin-externo.adminml.com",
+        "domainId": "1",
+        "isActive": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715353061
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

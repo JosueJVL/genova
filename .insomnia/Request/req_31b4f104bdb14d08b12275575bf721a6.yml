@@ -1,0 +1,21 @@
+_id: req_31b4f104bdb14d08b12275575bf721a6
+type: Request
+parentId: fld_1ecd39bad26940b186c8528e2cdf5766
+modified: 1668715234761
+created: 1668715234761
+url: "{{ms_test_base_url}}/pricing/v1/products/1"
+name: Disable Product
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234761
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

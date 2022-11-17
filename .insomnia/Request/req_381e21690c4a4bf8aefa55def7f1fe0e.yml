@@ -1,0 +1,29 @@
+_id: req_381e21690c4a4bf8aefa55def7f1fe0e
+type: Request
+parentId: fld_41ce491ba88e4a998ee4bc66ad13c8ec
+modified: 1668715353231
+created: 1668715353231
+url: "{{Endpoint}}{{version}}/role/2/resource/1"
+name: Assignment
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "requireAuthorization": false,
+        "validTo": "2025-01-12"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715353231
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

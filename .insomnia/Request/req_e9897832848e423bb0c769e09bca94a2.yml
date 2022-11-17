@@ -1,0 +1,21 @@
+_id: req_e9897832848e423bb0c769e09bca94a2
+type: Request
+parentId: fld_4fa4c5e9a4af41bf9d9420c7901411ba
+modified: 1668714919181
+created: 1668714919181
+url: "{{cerc}}/constants/search"
+name: Get constants
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919181
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_5ec8a6a266ab47c787a70a876a59a1d7
+type: Request
+parentId: fld_f1704e4cdaa848b1b2f9eb50022e877d
+modified: 1668715235004
+created: 1668715235004
+url: "{{ms_test_base_url}}/customers/v1/customers/1/payment_facilitators"
+name: Create Payment Facilitator
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "id": 241408,
+        "name": "MERCADOPAGO",
+        "brand": "mastercard"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715235004
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

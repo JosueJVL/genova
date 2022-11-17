@@ -1,0 +1,21 @@
+_id: req_8166dfdf80f54878b8f394faf01478c6
+type: Request
+parentId: fld_cb33387784c9431b808e8492e1b5faf9
+modified: 1668715352832
+created: 1668715352832
+url: "{{Endpoint}}{{version}}/role/application/1?roleId=1&roleId=2&roleId=3"
+name: Roles w Resources
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352832
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

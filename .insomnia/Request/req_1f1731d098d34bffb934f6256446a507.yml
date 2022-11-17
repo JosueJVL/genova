@@ -1,0 +1,29 @@
+_id: req_1f1731d098d34bffb934f6256446a507
+type: Request
+parentId: fld_c727e51ea1604361a8fdf9dcd0a49d06
+modified: 1668715234448
+created: 1668715234448
+url: "{{ms_test_base_url}}/financials/v1/installments/9999"
+name: Update  Installment
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |
+    {
+        "installment": 9999,
+        "start_valid_date": "2022-04-05T00:00:00Z"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234448
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

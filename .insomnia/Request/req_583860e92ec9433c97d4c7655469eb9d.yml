@@ -1,0 +1,21 @@
+_id: req_583860e92ec9433c97d4c7655469eb9d
+type: Request
+parentId: fld_16bd63c577404a558aa39525aaaf43ae
+modified: 1668715352961
+created: 1668715352961
+url: "{{Endpoint}}{{version}}/user/emi"
+name: Find Copy
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352961
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

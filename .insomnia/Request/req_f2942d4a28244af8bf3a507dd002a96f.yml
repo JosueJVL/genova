@@ -1,0 +1,23 @@
+_id: req_f2942d4a28244af8bf3a507dd002a96f
+type: Request
+parentId: fld_a921470fb7bb49629730e8e6a024ad92
+modified: 1668715234396
+created: 1668715234396
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/search"
+name: Retrieve Organization
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-257984f6-0529-44a7-ac23-6eab629b2d9a
+authentication: {}
+metaSortKey: -1668715234396
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

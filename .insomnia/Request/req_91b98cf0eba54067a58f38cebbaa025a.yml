@@ -1,0 +1,23 @@
+_id: req_91b98cf0eba54067a58f38cebbaa025a
+type: Request
+parentId: fld_7d698a5f9ba14ac784435f60f589a7cb
+modified: 1668714919228
+created: 1668714919228
+url: "{{cerc}}/payments/search?from=2021-11-30&to=2022-01-14&merchant_id=1&stat\
+  us=created&status=in_process&status=sent&status=rejected&status=approved&stat\
+  us=cancelled&status=error"
+name: Get Payments
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919228
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

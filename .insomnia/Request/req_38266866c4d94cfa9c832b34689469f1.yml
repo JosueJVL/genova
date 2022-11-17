@@ -1,0 +1,22 @@
+_id: req_38266866c4d94cfa9c832b34689469f1
+type: Request
+parentId: fld_999e8113bf8c439b8452f09e22f002fb
+modified: 1668714919309
+created: 1668714919309
+url: "{{advances}}/advances/private-agreement/schedule?detail=true&date_from=20\
+  21-10-15&date_to=2022-01-14"
+name: Get Schedule
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919309
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

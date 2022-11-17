@@ -1,0 +1,22 @@
+_id: req_bfbf408d627c4938b545bf550aaec703
+type: Request
+parentId: fld_bb7c7e9cdb40447da65faff8289e92aa
+modified: 1668714919413
+created: 1668714919413
+url: "{{settlement_queries}}/concept_group_name_detail/concept_group_name/searc\
+  h/RC_MASTER_DAILY_SETTLEMENT_POSITION"
+name: Get group name detail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919413
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

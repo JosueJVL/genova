@@ -1,0 +1,21 @@
+_id: req_e3f641dac80e4548b760d266eea0ec93
+type: Request
+parentId: fld_43c3d8f2f5d945528f3b67b2a0523487
+modified: 1668714918631
+created: 1668714918631
+url: ""
+name: get limits
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918631
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

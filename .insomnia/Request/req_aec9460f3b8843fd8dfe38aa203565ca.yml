@@ -1,0 +1,26 @@
+_id: req_aec9460f3b8843fd8dfe38aa203565ca
+type: Request
+parentId: fld_5e2e3a77e6e04ff3afbb2351817b392b
+modified: 1668714918873
+created: 1668714918873
+url: "{{conciliation}}/consistency/genova_gateway/recheck_by_filter?genova_stat\
+  e=clearing&refund_conciliation_status=in_process&gtw_operation=all&gtw_status\
+  =all&time_type=last_operation_creation&range_type=absolute&from_or_value=2021\
+  -12-15T00:00:00Z&to_or_unit=2021-12-16T00:00:00Z&errors=MissingInformation&in\
+  stallment_consistency=MissingInformation&page_start=0&page_length=100&user=de\
+  veloperlocal&country=ARG&transaction_type=all&brand=all"
+name: Get recheck summary
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918873
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

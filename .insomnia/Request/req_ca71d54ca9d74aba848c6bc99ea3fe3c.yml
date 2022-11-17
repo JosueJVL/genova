@@ -1,0 +1,21 @@
+_id: req_ca71d54ca9d74aba848c6bc99ea3fe3c
+type: Request
+parentId: fld_7484284a93b2402fa52526e2df29ad1b
+modified: 1668714918603
+created: 1668714918603
+url: https://internal-api.mercadopago.com/acq-advance-citi-br/staging-api/files/state?file_id=44&new_state=Retransmit
+name: File State
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918603
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

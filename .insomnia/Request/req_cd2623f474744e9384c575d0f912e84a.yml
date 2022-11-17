@@ -1,0 +1,35 @@
+_id: req_cd2623f474744e9384c575d0f912e84a
+type: Request
+parentId: fld_ca3ebfe3bbfa45e5b290130c2377f480
+modified: 1668715352815
+created: 1668715352815
+url: "{{Endpoint}}{{version}}/inputcontrol"
+name: Update Input Copy
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "inputId": 2,
+        "pageId": 1,
+        "resourceId": 1,
+        "inputName": "dateTo",
+        "isActive": true,
+        "messageId": 2,
+        "target": "Ayuda2",
+        "messageText": "updated"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352816
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

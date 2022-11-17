@@ -1,0 +1,21 @@
+_id: req_e12add154de2491483c3ced89acd5db8
+type: Request
+parentId: fld_e1471ea7d6a841138f27e59c14aa53c3
+modified: 1668715352807
+created: 1668715352807
+url: "{{Endpoint}}{{version}}/message/1"
+name: Message - Get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352807
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,22 @@
+_id: req_b4304e2f8b67445cb80b88d13e062995
+type: Request
+parentId: fld_f048c9885a1545cfb4e1825e2141e41f
+modified: 1668714918975
+created: 1668714918975
+url: "{{backoffice_bi}}/query/qmr_report?country=BR&include_reversals=true&quar\
+  ter=Q3&year=2021&force_query=false"
+name: Get QMR
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918975
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

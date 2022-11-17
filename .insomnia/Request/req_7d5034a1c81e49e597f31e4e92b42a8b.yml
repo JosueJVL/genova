@@ -1,0 +1,21 @@
+_id: req_7d5034a1c81e49e597f31e4e92b42a8b
+type: Request
+parentId: fld_b764f8a99ab4437e9b6c4fedf5b4bac5
+modified: 1668714919462
+created: 1668714919462
+url: "{{settlement_queries}}/genova/currency/getall"
+name: Get currency
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919462
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_1228249c8a45471cb05eb146395a2c07
+type: Request
+parentId: fld_68c03cda61384e8988ca4a5b4684d1ce
+modified: 1668715352862
+created: 1668715352862
+url: "{{Endpoint}}{{version}}/assignment"
+name: Find All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352862
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

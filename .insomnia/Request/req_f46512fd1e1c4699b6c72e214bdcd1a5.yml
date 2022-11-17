@@ -1,0 +1,21 @@
+_id: req_f46512fd1e1c4699b6c72e214bdcd1a5
+type: Request
+parentId: fld_bb14a0690a834219b3b9e032eb95c15e
+modified: 1668714918947
+created: 1668714918947
+url: "{{settlement_queries}}/country/getall"
+name: Get country
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918947
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

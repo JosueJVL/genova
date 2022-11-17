@@ -1,0 +1,23 @@
+_id: req_cad9ce15b6a2454aa7f02ef93513b899
+type: Request
+parentId: fld_c727e51ea1604361a8fdf9dcd0a49d06
+modified: 1668715234444
+created: 1668715234444
+url: "{{ms_test_base_url}}/financials/v1/installments/search?enable=true"
+name: Retrieve  Installment
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-9eb93ba6-7d30-4007-82c5-783893060ace
+authentication: {}
+metaSortKey: -1668715234444
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

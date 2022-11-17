@@ -1,0 +1,25 @@
+_id: req_7ffcd4fd24b44b98bdb14e16cf2c7ac4
+type: Request
+parentId: fld_70e5ae23bf2b423ba9f6e914835e0f40
+modified: 1668715454981
+created: 1668715454981
+url: "{{Endpoint}}/userbank/{{userId}}"
+name: Find Created
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  disabled: false
+  token: "{{jwt_signed}}"
+  prefix: ""
+metaSortKey: -1668715454981
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

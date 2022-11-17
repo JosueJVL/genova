@@ -1,0 +1,27 @@
+_id: req_2d361b978bc6469e9e2205e2ce52229c
+type: Request
+parentId: fld_5e2e3a77e6e04ff3afbb2351817b392b
+modified: 1668714918878
+created: 1668714918878
+url: "{{conciliation}}/consistency/genova_gateway/change_state_by_filter?genova\
+  _state=clearing&refund_conciliation_status=no_refunds&gtw_operation=all&gtw_s\
+  tatus=all&time_type=last_operation_creation&range_type=absolute&from_or_value\
+  =2021-12-16T00:00:00Z&to_or_unit=2021-12-17T00:00:00Z&errors=MissingInformati\
+  on&installment_consistency=MissingInformation&page_start=0&page_length=100&us\
+  er=Developer%20Local&country=ARG&transaction_type=all&brand=all&change_reason\
+  =prueba%20collection%202"
+name: Get change State Detail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918878
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

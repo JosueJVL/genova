@@ -1,0 +1,23 @@
+_id: req_ba2e415cc7cc4764990fd02a18a4ab3e
+type: Request
+parentId: fld_a921470fb7bb49629730e8e6a024ad92
+modified: 1668715234394
+created: 1668715234394
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/search?ids="
+name: Retrieve Organization error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715234394
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_f1ea97cd64814f56903768238849058f
+type: Request
+parentId: fld_39516e6a9aed404e880597f4f9190473
+modified: 1668714918768
+created: 1668714918768
+url: "{{conciliation}}/consistency/gateway/search?gtw_transaction_id=5678"
+name: Get Gateway
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918768
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

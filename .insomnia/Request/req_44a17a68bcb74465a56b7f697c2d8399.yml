@@ -1,0 +1,32 @@
+_id: req_44a17a68bcb74465a56b7f697c2d8399
+type: Request
+parentId: fld_e735ea45c23047b0bedaf6339431aa73
+modified: 1668715352842
+created: 1668715352842
+url: "{{Endpoint}}{{version}}/role/1/resource/2"
+name: Original Create assig resource Copy
+description: ""
+method: DELETE
+body:
+  mimeType: ""
+  text: |-
+    {
+        "roleId": 1,
+        "resourceId": 2,
+        "validTo": null,
+        "requireAuthorization": false,
+        "applicationActionID": 4
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352842
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

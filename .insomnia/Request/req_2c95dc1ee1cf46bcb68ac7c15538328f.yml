@@ -1,0 +1,28 @@
+_id: req_2c95dc1ee1cf46bcb68ac7c15538328f
+type: Request
+parentId: fld_fe75fba1c81a4e8687433a70ad304109
+modified: 1668715353198
+created: 1668715353198
+url: "{{Endpoint}}{{version}}/domain"
+name: Post Domain
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "name": "test.com.mx"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715353198
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

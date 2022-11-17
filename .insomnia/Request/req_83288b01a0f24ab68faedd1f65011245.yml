@@ -1,0 +1,23 @@
+_id: req_83288b01a0f24ab68faedd1f65011245
+type: Request
+parentId: fld_939cdfe7483b4ae1baaf881c077f6f7d
+modified: 1668715234509
+created: 1668715234509
+url: "{{ms_test_base_url}}/financials/v1/financial_types/search?merchant_id=1046"
+name: Retrieve  Financial Type
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-4fa202d2-6889-4303-9aff-206733a4fb57
+authentication: {}
+metaSortKey: -1668715234509
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

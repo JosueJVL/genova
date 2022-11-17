@@ -1,0 +1,21 @@
+_id: req_c9314f750f3d475ab93e3338cfff9a4e
+type: Request
+parentId: fld_9c13170d064248cdb97fda438bd0170c
+modified: 1668715234701
+created: 1668715234701
+url: "{{ms_test_base_url}}/pricing/v1/pricing_rates/search"
+name: Retrieve Pricing rate
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234701
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

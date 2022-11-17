@@ -1,0 +1,12 @@
+_id: fld_78ae81a44795492c96a897baf54aa23f
+type: RequestGroup
+parentId: wrk_a48e511f753943208f1cbbbded85f531
+modified: 1668715509577
+created: 1668715353248
+name: RoleManager
+description: ""
+environment:
+  Endpoint: https://internal-api.mercadopago.com/acq/test/api-roles/
+  version: v1
+environmentPropertyOrder: null
+metaSortKey: -1668715455000.171

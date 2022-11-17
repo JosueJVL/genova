@@ -1,0 +1,21 @@
+_id: req_c10fff845eb144e9b2f477677c8c6210
+type: Request
+parentId: fld_e92f76efa112469a81ff19eb47b02503
+modified: 1668714919545
+created: 1668714919545
+url: https://internal-api.mercadopago.com/acq-ss/staging-api/genova/constants/search
+name: CONSTANTS genova
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919545
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

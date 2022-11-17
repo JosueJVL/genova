@@ -1,0 +1,21 @@
+_id: req_800585ac695e45378fc75f253f67caba
+type: Request
+parentId: fld_1ecd39bad26940b186c8528e2cdf5766
+modified: 1668715234763
+created: 1668715234763
+url: "{{ms_test_base_url}}/pricing/v1/products/9999/enable"
+name: Enable Product error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234763
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

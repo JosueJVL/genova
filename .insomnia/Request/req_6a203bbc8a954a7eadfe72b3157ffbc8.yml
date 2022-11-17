@@ -1,0 +1,21 @@
+_id: req_6a203bbc8a954a7eadfe72b3157ffbc8
+type: Request
+parentId: fld_4fa4c5e9a4af41bf9d9420c7901411ba
+modified: 1668714919176
+created: 1668714919176
+url: "{{cerc}}/merchants/search"
+name: Get Merchants
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919176
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

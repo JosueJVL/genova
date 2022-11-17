@@ -1,0 +1,22 @@
+_id: req_c981ea94202148f285658997bcc70fac
+type: Request
+parentId: fld_ba4e015567eb4730a886c2faab4e6c45
+modified: 1668715234213
+created: 1668715234213
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/9999/\
+  enable"
+name: Enable Acquirer License error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234213
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

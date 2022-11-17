@@ -1,0 +1,29 @@
+_id: req_0b44d517e8ca4191abb47278a3b6dd95
+type: Request
+parentId: fld_41ce491ba88e4a998ee4bc66ad13c8ec
+modified: 1668715353239
+created: 1668715353239
+url: "{{Endpoint}}{{version}}/role/3/resource/1"
+name: Assingment
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "requireAuthorization": true,
+        "validTo": "2025-01-12"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715353239
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

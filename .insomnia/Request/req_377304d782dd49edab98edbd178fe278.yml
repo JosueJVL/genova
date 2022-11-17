@@ -1,0 +1,22 @@
+_id: req_377304d782dd49edab98edbd178fe278
+type: Request
+parentId: fld_804b9c297b644e1fa8a965a645e5fd85
+modified: 1668714919004
+created: 1668714919004
+url: "{{backoffice_bi}}/query/amount_comparer?date_from=2021-11-01&date_to=2021\
+  -12-13&country=AR&brand=master_dual&force_query=false"
+name: Get Gross amount
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919004
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

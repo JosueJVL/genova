@@ -1,0 +1,35 @@
+_id: req_e9476b3506624c4e8c8baf0e403be0a7
+type: Request
+parentId: fld_bbea968e0b884d0798adf9c70ba3dab2
+modified: 1668715233902
+created: 1668715233902
+url: "{{ms_test_base_url}}/merchants/v1/merchants/9999/capability_types/2"
+name: Update capability error
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |
+    {
+          "capability_values":[
+           {
+            "value": true
+           }
+        ],
+
+        "start_valid_date": "2022-04-05T00:00:00Z"
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715233902
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

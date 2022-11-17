@@ -1,0 +1,32 @@
+_id: req_10e843000b484fa58a0b9b7521cb4a79
+type: Request
+parentId: fld_e735ea45c23047b0bedaf6339431aa73
+modified: 1668715352844
+created: 1668715352844
+url: "{{Endpoint}}{{version}}/role/1/resource/1"
+name: Original update assig resource
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "roleId": 1,
+        "resourceId": 1,
+        "validTo": "2022-12-13T00:00:00Z",
+        "requireAuthorization": true,
+        "applicationActionID": 2
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352844
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

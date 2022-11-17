@@ -1,0 +1,21 @@
+_id: req_90e24e7976f14f918ac9b283d8121d85
+type: Request
+parentId: fld_2030a55942d344e6a736014bfae0386c
+modified: 1668714918691
+created: 1668714918691
+url: https://internal-api.mercadopago.com/acq-dates/staging-api/v2//report?international=false&transaction_type=credit&account_funding_source=C&installment_financing=none&financial_entity=false&installment_sub_type=standard&clearing_time=2022-05-02T19:03:33.000Z&capture_time=2022-05-02T19:03:33.000Z&card_acceptor_settlement_as=0&report_id=get_schedule_dates_ar_visa
+name: Dates Reports - Get Report
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918691
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

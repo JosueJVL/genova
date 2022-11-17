@@ -1,0 +1,21 @@
+_id: req_cced13e0cae34f31a5a0723fd93a6a5c
+type: Request
+parentId: fld_e735ea45c23047b0bedaf6339431aa73
+modified: 1668715352841
+created: 1668715352841
+url: "{{Endpoint}}{{version}}/role/1/application/1"
+name: get Resouces from Role
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352841
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

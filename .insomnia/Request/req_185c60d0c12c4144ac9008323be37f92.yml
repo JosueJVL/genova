@@ -1,0 +1,32 @@
+_id: req_185c60d0c12c4144ac9008323be37f92
+type: Request
+parentId: fld_710d24990e6547018a318ae39d151f61
+modified: 1668715196497
+created: 1668715196497
+url: https://internal-api.mercadopago.com/acq/test/financial-entity/v1/financial-entity/visa/13186
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "ica": "13186",
+        "name": "BANCO CIUDAD DE BUENOS AIRES",
+        "is_zero_vat": true,
+        "is_financial_entity": false,
+        "country": "AR"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715196497
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

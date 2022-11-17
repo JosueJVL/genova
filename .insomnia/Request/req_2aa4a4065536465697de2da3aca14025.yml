@@ -1,0 +1,21 @@
+_id: req_2aa4a4065536465697de2da3aca14025
+type: Request
+parentId: fld_cd30d2e37e814c2892ba009a09105f46
+modified: 1668715233872
+created: 1668715233872
+url: "{{ms_test_base_url}}/merchants/v1/merchants/9999/acquirer_settings/2"
+name: Disable Merchant Acquirer Setting error
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715233872
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

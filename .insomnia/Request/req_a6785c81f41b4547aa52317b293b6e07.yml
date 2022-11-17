@@ -1,0 +1,22 @@
+_id: req_a6785c81f41b4547aa52317b293b6e07
+type: Request
+parentId: fld_10130abd50d44e82880304f4b1207765
+modified: 1668714918989
+created: 1668714918989
+url: "{{backoffice_bi}}/query/consistency_gtw-genova/detail?date_from=2021-12-0\
+  8&date_to=2021-12-13&force_query=false"
+name: Get Amount Const GTW Genova detail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918989
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

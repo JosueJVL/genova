@@ -1,0 +1,21 @@
+_id: req_eb3c86881f0a4441873c283ee1cc4cc8
+type: Request
+parentId: fld_0ac8a61d13e24bce88a72d1d0321cb54
+modified: 1668714919399
+created: 1668714919399
+url: "{{db_store}}/mc/br/dm/report/get_errors"
+name: Get errors
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919399
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

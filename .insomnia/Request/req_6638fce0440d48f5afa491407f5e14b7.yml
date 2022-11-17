@@ -1,0 +1,30 @@
+_id: req_6638fce0440d48f5afa491407f5e14b7
+type: Request
+parentId: fld_073756c373a641e4be902f611bfbbd31
+modified: 1668715352827
+created: 1668715352827
+url: "{{Endpoint}}{{version}}/pages"
+name: Pages - Create
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "resourceId": 6,
+        "pageName": "Settlementsssss",
+        "isActive": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352827
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

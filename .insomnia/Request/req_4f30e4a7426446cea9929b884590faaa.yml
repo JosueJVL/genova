@@ -1,0 +1,21 @@
+_id: req_4f30e4a7426446cea9929b884590faaa
+type: Request
+parentId: fld_0ceaf2599eaa443b8a5f8c16fe2fb486
+modified: 1668714919082
+created: 1668714919082
+url: ""
+name: Get Constants brand reporting TECBAN - BARI -
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919082
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

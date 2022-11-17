@@ -1,0 +1,32 @@
+_id: req_bb3232407b0c42c59714de93a95f3e8f
+type: Request
+parentId: fld_40bb1935b965452bb46eb84930529552
+modified: 1668714918911
+created: 1668714918911
+url: "{{settlement_queries}}/bank_holiday/"
+name: Create Normal Holiday
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |
+    {
+      "country": "AR",
+      "brand": "visa",
+      "date_type": "settlement",
+      "date": "2021-12-13",
+      "description": "prueba collection"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668714918911
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

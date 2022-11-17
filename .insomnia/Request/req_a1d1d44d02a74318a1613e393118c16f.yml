@@ -1,0 +1,33 @@
+_id: req_a1d1d44d02a74318a1613e393118c16f
+type: Request
+parentId: fld_a9ab434a24dd43f291231e4321655f66
+modified: 1668715234418
+created: 1668715234418
+url: "{{ms_test_base_url}}/capabilities/v1/capability_types/1"
+name: Update  Capability  Type
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |
+    {
+        "name": "credit_card_support",
+        "type":"BINARY",
+        "start_valid_date": "2022-04-05T00:00:00Z"
+
+    }
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234418
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

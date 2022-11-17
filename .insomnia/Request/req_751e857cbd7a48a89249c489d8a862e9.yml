@@ -1,0 +1,30 @@
+_id: req_751e857cbd7a48a89249c489d8a862e9
+type: Request
+parentId: fld_0b7a426199274c68b5e06c98ed36c063
+modified: 1668715234056
+created: 1668715234056
+url: "{{ms_test_base_url}}/routings/v1/clearing_routings"
+name: Create Clearing Routings Mastercard
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |
+    {
+        "batch_type": "ar-mastercard-ecommerce_credit_1x",
+        "cardinality": 0
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234056
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_9dfed45ea68f4bbcab72423e109f108d
+type: Request
+parentId: fld_1ecd39bad26940b186c8528e2cdf5766
+modified: 1668715234752
+created: 1668715234752
+url: "{{ms_test_base_url}}/pricing/v1/products/9999"
+name: Disable Product error
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234752
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

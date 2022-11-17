@@ -1,0 +1,22 @@
+_id: req_d3805430ae2a46c593cd98150dbe1c55
+type: Request
+parentId: fld_aec9c5fd54c74e66b0440289d18646f1
+modified: 1668714918865
+created: 1668714918865
+url: "{{conciliation}}/consistency/genova_gateway/search?genova_transaction_id=\
+  CAQABAQLJ5JArEShMe4eZfiZ6CkCmz0r_x5YW3ttjdI8gnPDGvAB7dBYrx2bjwv0"
+name: Get Conciliation
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918865
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

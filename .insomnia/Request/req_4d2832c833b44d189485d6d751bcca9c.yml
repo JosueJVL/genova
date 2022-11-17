@@ -1,0 +1,21 @@
+_id: req_4d2832c833b44d189485d6d751bcca9c
+type: Request
+parentId: fld_c11b7db96f144b8d9ab6deb4a70d9c6a
+modified: 1668714919514
+created: 1668714919514
+url: https://internal-api.mercadopago.com/acq-ss/test-staging/bari/constants/search
+name: CONSTANTS test-Staging
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919514
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

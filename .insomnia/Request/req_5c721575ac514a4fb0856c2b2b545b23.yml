@@ -1,0 +1,23 @@
+_id: req_5c721575ac514a4fb0856c2b2b545b23
+type: Request
+parentId: fld_8933959008724f1c9f72e3edcdd5060e
+modified: 1668715234571
+created: 1668715234571
+url: "{{ms_test_base_url}}/financials/v1/plan_types/1"
+name: Disable  Plan Type Copy
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: "13456"
+authentication: {}
+metaSortKey: -1668715234571
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

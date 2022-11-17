@@ -1,0 +1,54 @@
+_id: req_94eb85b00a294fd98836f97abce525f4
+type: Request
+parentId: fld_dc791177f1154c5ca9312fe69d068ad0
+modified: 1668714918818
+created: 1668714918818
+url: https://internal-api.mercadopago.com/acq/staging/etl/v1/transaction/search
+name: Search
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "detail": {
+            "search_filters": [
+                {
+                    "operator": "and",
+                    "clause": "date_range",
+                    "field": "gum_transaction.next_clearing_time",
+                    "values": [
+                        "2022-06-28T15:22:14",
+                        "2022-06-28T16:22:14"
+                    ]
+                },
+                {
+                    "operator": "and",
+                    "clause": "eq",
+                    "field": "card.type",
+                    "values": [
+                        "credit_card"
+                    ]
+                }
+            ],
+            "OrderBy": [
+                {
+                    "Field": "next_clearing_time",
+                    "SortOrder": "asc"
+                }
+            ]
+        }
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668714918818
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

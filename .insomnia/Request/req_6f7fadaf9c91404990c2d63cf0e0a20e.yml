@@ -1,0 +1,23 @@
+_id: req_6f7fadaf9c91404990c2d63cf0e0a20e
+type: Request
+parentId: fld_a921470fb7bb49629730e8e6a024ad92
+modified: 1668715234398
+created: 1668715234398
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/9999"
+name: Retrieve Organization by Id error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715234398
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_081754882a60402daf9c970a0e29b8b0
+type: Request
+parentId: fld_8933959008724f1c9f72e3edcdd5060e
+modified: 1668715234584
+created: 1668715234584
+url: "{{ms_test_base_url}}/financials/v1/plan_types/9999/enable"
+name: Enable  Plan Type error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234584
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,22 @@
+_id: req_e009c78bcc754d0c829a576f43c3b35e
+type: Request
+parentId: fld_9eef2b9bdfde4685a0e9c484d36d1936
+modified: 1668714919207
+created: 1668714919207
+url: "{{cerc}}/adjustments/search?from=2021-11-30&to=2022-01-14&date_type=settl\
+  ement&merchant_id=1"
+name: Get Adjustments
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919207
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

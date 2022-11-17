@@ -1,0 +1,29 @@
+_id: req_43859fcd73694500b861e327e07c2911
+type: Request
+parentId: fld_41ce491ba88e4a998ee4bc66ad13c8ec
+modified: 1668715353242
+created: 1668715353242
+url: "{{Endpoint}}{{version}}/role"
+name: Role
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "name": "Test",
+        "description": "Test Description updated"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715353242
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

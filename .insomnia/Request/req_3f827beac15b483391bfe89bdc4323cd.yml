@@ -1,0 +1,23 @@
+_id: req_3f827beac15b483391bfe89bdc4323cd
+type: Request
+parentId: fld_ef6b4c0932904878bb540fa672ee90b4
+modified: 1668715234863
+created: 1668715234863
+url: "{{ms_test_base_url}}/customers/v1/settlement_accounts/search?id=9999"
+name: Retrieve Settlement Account error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth-Token
+    value: ffc8f5e4ccf37e4666ac9db22cbb33e97046e0b38dabcbff703561a9bd31459f
+authentication: {}
+metaSortKey: -1668715234863
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

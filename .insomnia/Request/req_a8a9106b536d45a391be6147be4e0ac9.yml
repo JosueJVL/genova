@@ -1,0 +1,24 @@
+_id: req_a8a9106b536d45a391be6147be4e0ac9
+type: Request
+parentId: fld_2723922fb42245fc86c063dce3218e96
+modified: 1668715233949
+created: 1668715233949
+url: "{{ms_test_base_url}}/merchants/v1/customers/1/settlement_account/1/mercha\
+  nts/4"
+name: Disable Merchant
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715233949
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

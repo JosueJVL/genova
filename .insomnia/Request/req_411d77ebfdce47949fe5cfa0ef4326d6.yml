@@ -1,0 +1,21 @@
+_id: req_411d77ebfdce47949fe5cfa0ef4326d6
+type: Request
+parentId: fld_b764f8a99ab4437e9b6c4fedf5b4bac5
+modified: 1668714919444
+created: 1668714919444
+url: "{{settlement_queries}}/bari/members/getall"
+name: Get members - BARI -
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919444
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

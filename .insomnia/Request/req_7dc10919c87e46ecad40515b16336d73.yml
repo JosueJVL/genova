@@ -1,0 +1,21 @@
+_id: req_7dc10919c87e46ecad40515b16336d73
+type: Request
+parentId: fld_8933959008724f1c9f72e3edcdd5060e
+modified: 1668715234603
+created: 1668715234603
+url: "{{ms_test_base_url}}/financials/v1/plan_types/search?country=foo"
+name: Retrieve  Plan Type error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234603
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

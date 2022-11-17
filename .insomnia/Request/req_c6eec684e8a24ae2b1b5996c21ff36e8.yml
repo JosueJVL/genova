@@ -1,0 +1,22 @@
+_id: req_c6eec684e8a24ae2b1b5996c21ff36e8
+type: Request
+parentId: fld_f3b4403e12434dbe82e8dbcaa962299d
+modified: 1668715234075
+created: 1668715234075
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/1/set\
+  tings/9999"
+name: Disable Acquirer Setting error
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234075
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

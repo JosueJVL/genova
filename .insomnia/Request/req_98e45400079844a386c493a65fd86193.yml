@@ -1,0 +1,24 @@
+_id: req_98e45400079844a386c493a65fd86193
+type: Request
+parentId: fld_a9ab434a24dd43f291231e4321655f66
+modified: 1668715234414
+created: 1668715234414
+url: "{{ms_test_base_url}}/capabilities/v1/capability_types/search?enable=true&\
+  type=ARRAY"
+name: Retrieve  Capability  Type
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-9a85db02-8d73-466c-b6aa-1f1fd5794222
+authentication: {}
+metaSortKey: -1668715234414
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

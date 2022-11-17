@@ -1,0 +1,21 @@
+_id: req_dee5fa107655499898d48551e7989a9d
+type: Request
+parentId: fld_1ecd39bad26940b186c8528e2cdf5766
+modified: 1668715234765
+created: 1668715234765
+url: "{{ms_test_base_url}}/pricing/v1/products/search?country=foo"
+name: Retrieve Product error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234765
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

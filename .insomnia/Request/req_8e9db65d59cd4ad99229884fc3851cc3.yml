@@ -1,0 +1,21 @@
+_id: req_8e9db65d59cd4ad99229884fc3851cc3
+type: Request
+parentId: fld_b764f8a99ab4437e9b6c4fedf5b4bac5
+modified: 1668714919457
+created: 1668714919457
+url: "{{settlement_queries}}/bari/concept_group_name/search"
+name: Get group name - GENOVA -
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919457
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

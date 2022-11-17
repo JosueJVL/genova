@@ -1,0 +1,28 @@
+_id: req_e174265a639840528c7a04ae200c146f
+type: Request
+parentId: fld_68c03cda61384e8988ca4a5b4684d1ce
+modified: 1668715352857
+created: 1668715352857
+url: "{{Endpoint}}{{version}}/assignment/4"
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "role": "viewer"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352857
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

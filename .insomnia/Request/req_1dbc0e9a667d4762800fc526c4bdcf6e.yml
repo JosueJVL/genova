@@ -1,0 +1,38 @@
+_id: req_1dbc0e9a667d4762800fc526c4bdcf6e
+type: Request
+parentId: fld_2723922fb42245fc86c063dce3218e96
+modified: 1668715233966
+created: 1668715233966
+url: "{{ms_test_base_url}}/merchants/v1/customers/1/settlement_accounts/1/merch\
+  ants/9999"
+name: Update Merchant error
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: >
+    {
+        "brand": "mastercard",
+        "description":  "Tarjeta Presente - OFF - 1x - Master Debit - AR Domestico - PayFac",
+        "default_mcc": "5999",
+        "default_digital_wallet": "",
+        "dynamic_location": true,
+        "static_mcc": false,
+        "short_description": "TP - OFF - 1x - Mast DE - AR Dom - PayFac",
+        "clearing_routing_id": 1,
+        "start_valid_date": "2022-04-05T00:00:00Z"
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715233966
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

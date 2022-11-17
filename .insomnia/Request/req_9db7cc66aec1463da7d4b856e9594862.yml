@@ -1,0 +1,30 @@
+_id: req_9db7cc66aec1463da7d4b856e9594862
+type: Request
+parentId: fld_cd30d2e37e814c2892ba009a09105f46
+modified: 1668715233885
+created: 1668715233885
+url: "{{ms_test_base_url}}/merchants/v1/merchants/1/acquirer_settings/2"
+name: Create Merchant Acquirer Setting
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |
+    {
+
+        "start_valid_date": "2022-04-05T00:00:00Z"
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715233885
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

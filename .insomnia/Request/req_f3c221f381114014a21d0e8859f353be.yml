@@ -1,0 +1,30 @@
+_id: req_f3c221f381114014a21d0e8859f353be
+type: Request
+parentId: fld_a9ab434a24dd43f291231e4321655f66
+modified: 1668715234420
+created: 1668715234420
+url: "{{ms_test_base_url}}/capabilities/v1/capability_types"
+name: Create Capability  Type
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "name": "credit_card_support",
+        "type":"BINARY"
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234420
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

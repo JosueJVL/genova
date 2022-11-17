@@ -1,0 +1,21 @@
+_id: req_348ce133dc214b448b8557babf969c33
+type: Request
+parentId: fld_f1704e4cdaa848b1b2f9eb50022e877d
+modified: 1668715234929
+created: 1668715234929
+url: "{{ms_test_base_url}}/customers/v1/customers/1/payment_facilitators/9999"
+name: Disable  Payment Facilitator error
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234929
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

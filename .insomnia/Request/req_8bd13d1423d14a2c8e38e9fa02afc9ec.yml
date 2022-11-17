@@ -1,0 +1,21 @@
+_id: req_8bd13d1423d14a2c8e38e9fa02afc9ec
+type: Request
+parentId: fld_f2963952d9a3416c8b8fd4e14360c3c7
+modified: 1668714918617
+created: 1668714918617
+url: https://internal-api.mercadopago.com/acq-advance-citi-br/staging-api/advances/update
+name: Advances Update
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918617
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_6d9b9da6405441f095298f7aebc62e71
+type: Request
+parentId: fld_16bd63c577404a558aa39525aaaf43ae
+modified: 1668715352950
+created: 1668715352950
+url: "{{Endpoint}}{{version}}/user?userId=emi"
+name: Find Copy
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352950
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

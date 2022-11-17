@@ -1,0 +1,30 @@
+_id: req_847c341262f547ee88107974b4649089
+type: Request
+parentId: fld_c9bc7d0cd67645639084b4b7853eee77
+modified: 1668715435948
+created: 1668715435948
+url: https://internal-api.mercadopago.com/acq/test/userdata-bank/v1/userbank/cbeyer
+name: Get User Data Bank
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: |-
+    {
+        "userName": "developer",
+        "role": "acq-genova-test",
+        "action": "operator"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715435948
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

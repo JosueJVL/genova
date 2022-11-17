@@ -1,0 +1,21 @@
+_id: req_a44823d50da94c1d83d6611d2b4b5ed9
+type: Request
+parentId: fld_01412927f7fd4ddea7e96969fcc2c8b4
+modified: 1668715352880
+created: 1668715352880
+url: "{{Endpoint}}{{version}}/securityGroup/roles"
+name: Get Roles
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352880
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

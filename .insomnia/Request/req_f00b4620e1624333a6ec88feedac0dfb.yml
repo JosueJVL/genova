@@ -1,0 +1,21 @@
+_id: req_f00b4620e1624333a6ec88feedac0dfb
+type: Request
+parentId: fld_c727e51ea1604361a8fdf9dcd0a49d06
+modified: 1668715234442
+created: 1668715234442
+url: "{{ms_test_base_url}}/financials/v1/installments/search?installment=9999"
+name: Retrieve Installment  error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234442
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

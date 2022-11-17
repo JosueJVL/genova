@@ -1,0 +1,61 @@
+_id: req_a6eb72151b15424eac5058cafdc7f325
+type: Request
+parentId: fld_2723922fb42245fc86c063dce3218e96
+modified: 1668715233969
+created: 1668715233969
+url: "{{ms_test_base_url}}/merchants/v1/customers/1/settlement_accounts/1/merchants"
+name: Create Merchant
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: >
+    {
+        "id": 65,
+        "brand": "mastercard",
+        "description":  "Tarjeta Presente - OFF - 1x - Master Debit - AR Domestico - PayFac",
+        "default_mcc": "5999",
+        "default_digital_wallet": "",
+        "dynamic_location": true,
+        "static_mcc": false,
+        "short_description": "TP - OFF - 1x - Mast DE - AR Dom - PayFac",
+        "financial_types": [
+            {
+            "id": 34,
+            "default": true
+            }
+        ],
+        "clearing_routing_id": 1,
+        "customer_id": 2,
+        "settlement_account_id": 1,
+        "capabilities": [
+            {
+            "capability_type_id": 1,
+            "value": [
+                "true"
+                ]
+        }
+        ],
+        "merchant_discount_rate_id": [
+            1
+        ],
+        "acquirer_setting_id": [
+            1
+        ]
+
+    }
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715233969
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

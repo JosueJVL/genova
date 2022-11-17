@@ -1,0 +1,24 @@
+_id: req_48aa89d3698c47368c5ab1b18096c070
+type: Request
+parentId: fld_2723922fb42245fc86c063dce3218e96
+modified: 1668715233951
+created: 1668715233951
+url: "{{ms_test_base_url}}/merchants/v1/customers/1/settlement_accounts/1/merch\
+  ants/1/enable"
+name: Enable Merchant
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715233951
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

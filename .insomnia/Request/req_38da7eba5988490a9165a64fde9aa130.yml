@@ -1,0 +1,21 @@
+_id: req_38da7eba5988490a9165a64fde9aa130
+type: Request
+parentId: fld_b7783c4e09a147f9947a82e05e472728
+modified: 1668714918782
+created: 1668714918782
+url: "{{conciliation}}/consistency/genova_full/search?genova_transaction_id=213424"
+name: Get State Machines
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918782
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

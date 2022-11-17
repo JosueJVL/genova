@@ -1,0 +1,21 @@
+_id: req_61e6fea7afd146619efcf80f593161d8
+type: Request
+parentId: fld_9c13170d064248cdb97fda438bd0170c
+modified: 1668715234702
+created: 1668715234702
+url: "{{ms_test_base_url}}/pricing/v1/products/1/pricing_rates/9999"
+name: Retrieve Pricing rate by Id error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234702
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

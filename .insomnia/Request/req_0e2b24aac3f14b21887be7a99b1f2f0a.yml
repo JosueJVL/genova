@@ -1,0 +1,59 @@
+_id: req_0e2b24aac3f14b21887be7a99b1f2f0a
+type: Request
+parentId: fld_1500bdec01ae4f40992a6a0b7d742901
+modified: 1668714919334
+created: 1668714919334
+url: "{{advances}}/advances/private-agreement?id=112335"
+name: Put private Agreement
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+      "detail": [
+        {
+          "brand": "master",
+          "acquirer_ica": "21496",
+          "issuer_member_id": "21333",
+          "issuer_name": "",
+          "value_date": "2021-01-25",
+          "advance_amount": 2500,
+          "sum_tx_amount_rc": 3000,
+          "action": ""
+        },
+        {
+          "brand": "master",
+          "acquirer_ica": "21496",
+          "issuer_member_id": "21496",
+          "issuer_name": "MERCADOPAGOCOM REPRESENTACOES",
+          "value_date": "2021-01-25",
+          "advance_amount": 10000,
+          "sum_tx_amount_rc": 10000,
+          "action": ""
+        }
+      ],
+      "header": {
+        "advance_bank": "BANCO SAFRA S/A",
+        "advance_date": "2021-01-25",
+        "country": "BR",
+        "currency": "BRL",
+        "depository_bank": "Safra",
+        "fee": "23",
+        "total_advance_amount": "12500.00",
+        "total_tx_amount_rc": "13000.00"
+      }
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668714919334
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

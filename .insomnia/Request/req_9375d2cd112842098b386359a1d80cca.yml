@@ -1,0 +1,30 @@
+_id: req_9375d2cd112842098b386359a1d80cca
+type: Request
+parentId: fld_c9bc7d0cd67645639084b4b7853eee77
+modified: 1668715435943
+created: 1668715435943
+url: https://internal-api.mercadopago.com/acq/test/userdata-bank/v1/loggerbank/files/:userId/from/:from/to/:to
+name: Get files
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: |-
+    {
+        "userName": "developer",
+        "role": "acq-genova-test",
+        "action": "operator"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715435943
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

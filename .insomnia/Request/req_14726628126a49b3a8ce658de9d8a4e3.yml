@@ -1,0 +1,29 @@
+_id: req_14726628126a49b3a8ce658de9d8a4e3
+type: Request
+parentId: fld_16bd63c577404a558aa39525aaaf43ae
+modified: 1668715352940
+created: 1668715352940
+url: "{{Endpoint}}{{version}}/user"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "userId": "test",
+        "email": "emi@mercadolibre.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352940
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

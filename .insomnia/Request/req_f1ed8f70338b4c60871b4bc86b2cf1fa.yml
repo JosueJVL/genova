@@ -1,0 +1,21 @@
+_id: req_f1ed8f70338b4c60871b4bc86b2cf1fa
+type: Request
+parentId: fld_8209a812d5ba4ad8ad98c7bf7537ca5a
+modified: 1668715224596
+created: 1668715224596
+url: ""
+name: Merchant Search
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715224596
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

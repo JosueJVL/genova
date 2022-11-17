@@ -1,0 +1,21 @@
+_id: req_a26c41b9da3e40ec9ed2262f9ca5052b
+type: Request
+parentId: fld_1500bdec01ae4f40992a6a0b7d742901
+modified: 1668714919338
+created: 1668714919338
+url: "{{advances}}/advances/private-agreement/detail?id=112335"
+name: Get private agreement detail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919338
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

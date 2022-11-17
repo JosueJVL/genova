@@ -1,0 +1,32 @@
+_id: req_b8d72b2f10ec432d875f783d77e72bd8
+type: Request
+parentId: fld_01412927f7fd4ddea7e96969fcc2c8b4
+modified: 1668715352869
+created: 1668715352869
+url: "{{Endpoint}}{{version}}/securityGroup"
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "name": "grupo viejo",
+        "description": "description nuevo",
+        "creationDate": "2022-08-03",
+        "owner": "owner",
+        "createdBy": "createdBy"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352869
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

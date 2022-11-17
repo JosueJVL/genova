@@ -1,0 +1,21 @@
+_id: req_993f50374246402f861323e62dc56752
+type: Request
+parentId: fld_9c85c01dec644986b69d805466ca42e2
+modified: 1668714918593
+created: 1668714918593
+url: https://internal-api.mercadopago.com/acq/test/api-cache/test-cache/test
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918593
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

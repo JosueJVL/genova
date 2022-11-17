@@ -1,0 +1,21 @@
+_id: req_abd4a69cbab246bc9b1816ab2922d7d6
+type: Request
+parentId: fld_f2963952d9a3416c8b8fd4e14360c3c7
+modified: 1668714918626
+created: 1668714918626
+url: https://internal-api.mercadopago.com/acq-advance-citi-br/staging-api/advances/search?country=BR&currency=BRL&brand=visa&date_from=2022-04-02&date_to=2022-05-01&id=376
+name: Advances Search
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918626
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

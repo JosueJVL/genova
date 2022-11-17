@@ -1,0 +1,21 @@
+_id: req_243f1ef8858648d4b1c2c421cbd96a45
+type: Request
+parentId: fld_8933959008724f1c9f72e3edcdd5060e
+modified: 1668715234635
+created: 1668715234635
+url: "{{ms_test_base_url}}/financials/v1/plan_types/9999"
+name: Update  Plan Type error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234635
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

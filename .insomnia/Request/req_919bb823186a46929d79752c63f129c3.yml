@@ -1,0 +1,23 @@
+_id: req_919bb823186a46929d79752c63f129c3
+type: Request
+parentId: fld_2e7d1bbd997148c4b15791280ccecf66
+modified: 1668714918707
+created: 1668714918707
+url: "{{dates}}/installments_plan?brand=master&processing_type=dms&capture_time\
+  =2021-12-16T18:07:13Z&deferred_periods=0&financed_by=merchant&currency=BRL&co\
+  untry=BR&international=false&installments=12"
+name: Get installments Plan
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918707
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

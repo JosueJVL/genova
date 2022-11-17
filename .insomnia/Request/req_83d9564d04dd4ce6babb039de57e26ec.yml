@@ -1,0 +1,22 @@
+_id: req_83d9564d04dd4ce6babb039de57e26ec
+type: Request
+parentId: fld_19bcb3e4c9da4148a931e932b996cbb6
+modified: 1668714918743
+created: 1668714918743
+url: "{{dates}}/business_date?brand=master&processing_type=dms&card_type=credit\
+  &clearing_time=2021-12-16T17:52:29Z&country=AR&international=false"
+name: Get Business Date
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918743
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

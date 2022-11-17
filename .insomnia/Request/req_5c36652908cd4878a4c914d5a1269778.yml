@@ -1,0 +1,21 @@
+_id: req_5c36652908cd4878a4c914d5a1269778
+type: Request
+parentId: fld_bbe7d58ac0f34566817647415dfc9faf
+modified: 1668714919244
+created: 1668714919244
+url: "{{cerc}}/contract_effects/search?from=2021-11-30&to=2022-01-14&merchant_id=1"
+name: Get contract effects
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919244
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

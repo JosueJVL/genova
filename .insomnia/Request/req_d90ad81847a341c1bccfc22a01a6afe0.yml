@@ -1,0 +1,22 @@
+_id: req_d90ad81847a341c1bccfc22a01a6afe0
+type: Request
+parentId: fld_46312869f6024711a22fad4188332fcf
+modified: 1668715123779
+created: 1668715123779
+url: "{{sources}}/filemanager/admin/file/YTF.AR.T121.M.E0070654.D211221.T132110\
+  .A001-20211221T193320-451d1807/retry"
+name: Post Retry file
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715123779
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

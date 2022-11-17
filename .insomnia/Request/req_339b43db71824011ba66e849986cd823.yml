@@ -1,0 +1,32 @@
+_id: req_339b43db71824011ba66e849986cd823
+type: Request
+parentId: fld_c15c4ef61d844a98883a020129656cb4
+modified: 1668715454989
+created: 1668715454989
+url: "{{Endpoint}}/userbank"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "userId": {{userId}},
+        "mail": "{{mail}}",
+        "financingBankId": {{financingBankId}}
+    }
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  disabled: false
+  token: "{{jwt_signed}}"
+  prefix: ""
+metaSortKey: -1668715454989
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

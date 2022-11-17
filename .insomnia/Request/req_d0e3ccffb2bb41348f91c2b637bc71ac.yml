@@ -1,0 +1,119 @@
+_id: req_d0e3ccffb2bb41348f91c2b637bc71ac
+type: Request
+parentId: fld_8ab68de4b0a64e6e9c1fc01ea6b42023
+modified: 1668714918640
+created: 1668714918640
+url: https://internal-api.mercadopago.com/acq-advance-ar/staging-api/advances/simulation
+name: advances/simulation
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "date": "2022-07-27",
+        "days_to_simulate": null,
+        "banks": [
+            {
+                "financing_bank_id": 17,
+                "financing_bank": "BANCO BBVA ARGENTINA S.A.",
+                "enabled": true,
+                "financing_type": "All",
+                "active_bank_limit": "12000000000",
+                "active_mp_limit": "0",
+                "daily_limit": "0",
+                "max_advance_calendar_days": 0,
+                "max_installments": 0
+            },
+            {
+                "financing_bank_id": 34,
+                "financing_bank": "BANCO PATAGONIA S.A.",
+                "enabled": false,
+                "financing_type": "1x",
+                "active_bank_limit": "0",
+                "active_mp_limit": "0",
+                "daily_limit": "0",
+                "max_advance_calendar_days": 0,
+                "max_installments": 0
+            },
+            {
+                "financing_bank_id": 322,
+                "financing_bank": "BANCO INDUSTRIAL S.A.",
+                "enabled": true,
+                "financing_type": "All",
+                "active_bank_limit": "120000.26",
+                "active_mp_limit": "8000000000",
+                "daily_limit": "8000000000",
+                "max_advance_calendar_days": 0,
+                "max_installments": 0
+            },
+            {
+                "financing_bank_id": 917,
+                "financing_bank": "BANCO BBVA ARGENTINA BDD",
+                "enabled": true,
+                "financing_type": "All",
+                "active_bank_limit": "0",
+                "active_mp_limit": "0",
+                "daily_limit": "0",
+                "max_advance_calendar_days": 0,
+                "max_installments": 0
+            },
+            {
+                "financing_bank_id": 932,
+                "financing_bank": "BANCO INDUSTRIAL S.A. BDD",
+                "enabled": true,
+                "financing_type": "All",
+                "active_bank_limit": "0",
+                "active_mp_limit": "8000000000",
+                "daily_limit": "8000000000",
+                "max_advance_calendar_days": 0,
+                "max_installments": 0
+            },
+            {
+                "financing_bank_id": 936,
+                "financing_bank": "BDD BANCO BRADESCO ARGENTINA S.A.U.",
+                "enabled": true,
+                "financing_type": "All",
+                "active_bank_limit": "0",
+                "active_mp_limit": "7000",
+                "daily_limit": "3000",
+                "max_advance_calendar_days": 0,
+                "max_installments": 0
+            },
+            {
+                "financing_bank_id": 9999322,
+                "financing_bank": "BDD: BANCO INDUSTRIAL S.A.",
+                "enabled": true,
+                "financing_type": "All",
+                "active_bank_limit": "120000.26",
+                "active_mp_limit": "8000000000",
+                "daily_limit": "8000000000",
+                "max_advance_calendar_days": 0,
+                "max_installments": 0
+            },
+            {
+                "financing_bank_id": 9999932,
+                "financing_bank": "BANCO INDUSTRIAL S.A. BDD",
+                "enabled": true,
+                "financing_type": "All",
+                "active_bank_limit": "80000000000",
+                "active_mp_limit": "8000000000",
+                "daily_limit": "8000000000",
+                "max_advance_calendar_days": 0,
+                "max_installments": 0
+            }
+        ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668714918640
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

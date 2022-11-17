@@ -1,0 +1,21 @@
+_id: req_372798fa6daf47f8a7542b8285ba453c
+type: Request
+parentId: fld_c11b7db96f144b8d9ab6deb4a70d9c6a
+modified: 1668714919505
+created: 1668714919505
+url: https://internal-api.mercadopago.com/acq-ss/test-staging/bari/concept_group_name/search
+name: greoup name
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919505
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_a601ff0ee3474d27adc90bd0e837e6d3
+type: Request
+parentId: fld_bbea968e0b884d0798adf9c70ba3dab2
+modified: 1668715233900
+created: 1668715233900
+url: "{{ms_test_base_url}}/merchants/v1/merchants/9999/capability_types/2/enable"
+name: Enable Capability error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715233900
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

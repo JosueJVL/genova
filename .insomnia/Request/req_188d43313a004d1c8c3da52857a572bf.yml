@@ -1,0 +1,23 @@
+_id: req_188d43313a004d1c8c3da52857a572bf
+type: Request
+parentId: fld_c727e51ea1604361a8fdf9dcd0a49d06
+modified: 1668715234429
+created: 1668715234429
+url: "{{ms_test_base_url}}/financials/v1/installments/1/enable"
+name: Enable  Installment
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715234429
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

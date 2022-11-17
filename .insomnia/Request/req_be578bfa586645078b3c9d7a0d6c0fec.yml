@@ -1,0 +1,38 @@
+_id: req_be578bfa586645078b3c9d7a0d6c0fec
+type: Request
+parentId: fld_f2963952d9a3416c8b8fd4e14360c3c7
+modified: 1668714918621
+created: 1668714918621
+url: https://internal-api.mercadopago.com/acq-advance-citi-br/staging-api/advances/parse-file
+name: Advances Parse-file Remessa Copy
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: >-
+    {
+        "advance_bank_id": "335eee34-8a9f-11ec-a120-0242ac130004",
+        "advance_date": "2022-01-27",
+        "brand": "visa",
+        "country": "BR",
+        "currency": "BRL",
+        "depositary_bank_id": "14fad029-8844-11ec-986b-0242ac130004",
+        "file_body": "100000000001SOPRQ20220127MERCADO PAGO                            11111111111111CNPJBANCO CITIBANK S.A.                     33479023000180CNPJ0000000001                                         \r\n11BANCO EMISSOR1                          33479023000180CNPJ0001000BRLASGN                                    20220127                                                                          \r\n20                                20220207000000001234750000000000000001                                                                                                                        \r\n20                                20220208000000002222190000000000000001                                                                                                                        \r\n20                                20220209000000000056880000000000000001                                                                                                                        \r\n20                                20220210000000009867790000000000000001                                                                                                                        \r\n20                                20220211000000003298880000000000000001                                                                                                                        \r\n20                                20220214000000023233870000000000000001                                                                                                                        \r\n20                                20220215000000423424890000000000000001                                                                                                                        \r\n310000000000000000000000000000000000000000000000004633392500000000000000                                                                                                                        \r\n11BANCO EMISSOR2                          33479023000180CNPJ0001000BRLASGN                                    20220127                                                                          \r\n20                                20220207000000324242120000000000000001                                                                                                                        \r\n20                                20220208000000000343430000000000000001                                                                                                                        \r\n20                                20220209000000000653450000000000000001                                                                                                                        \r\n20                                20220210000000012121240000000000000001                                                                                                                        \r\n310000000000000000000000000000000000000000000000003373602400000000000000                                                                                                                        \r\n3000000000000000008006994900000000000000                                                                                                                                                        \r\n3298",
+        "file_type": "Remessa",
+        "tax": null,
+        "total_advance_amount": null,
+        "total_tax_amount_rc": "800699.49"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668714918621
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

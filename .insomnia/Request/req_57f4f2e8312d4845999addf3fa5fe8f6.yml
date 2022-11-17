@@ -1,0 +1,21 @@
+_id: req_57f4f2e8312d4845999addf3fa5fe8f6
+type: Request
+parentId: fld_35dfce63e48f40d4b20ff8089097b6b9
+modified: 1668714918793
+created: 1668714918793
+url: "{{ard}}/acquirer_reference_data_info/brands/master/BR/dsf/231"
+name: Get Ard
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918793
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

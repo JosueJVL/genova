@@ -1,0 +1,21 @@
+_id: req_87559e2bb53d4ef2a448055ada052e5c
+type: Request
+parentId: fld_cd8813edd31949469472e420c3837dbf
+modified: 1668715353137
+created: 1668715353137
+url: "{{Endpoint}}{{version}}/application/actions"
+name: Get All actions
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715353137
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

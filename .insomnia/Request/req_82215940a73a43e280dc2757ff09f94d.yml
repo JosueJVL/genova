@@ -1,0 +1,22 @@
+_id: req_82215940a73a43e280dc2757ff09f94d
+type: Request
+parentId: fld_f3b4403e12434dbe82e8dbcaa962299d
+modified: 1668715234136
+created: 1668715234136
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/1/set\
+  tings/9999"
+name: Retrieve Acquirer Setting by Id error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234136
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

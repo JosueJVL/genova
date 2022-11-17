@@ -1,0 +1,21 @@
+_id: req_6dfe31d16d304154b935b30720bb2c88
+type: Request
+parentId: fld_9cda282d44d546fe8f664c6bd9c49f81
+modified: 1668714918963
+created: 1668714918963
+url: "{{db_store}}/mc/ar/dm/generic_report/report_definitions"
+name: Get Report definition
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918963
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

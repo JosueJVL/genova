@@ -1,0 +1,21 @@
+_id: req_56acc5f3c85f463b9a7b39b21fdbd790
+type: Request
+parentId: fld_0ceaf2599eaa443b8a5f8c16fe2fb486
+modified: 1668714919095
+created: 1668714919095
+url: https://internal-api.mercadopago.com/acq-reporting/staging-api/genova/vi/constants/search
+name: Get Constants brand reporting visa - GENOVA -
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919095
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

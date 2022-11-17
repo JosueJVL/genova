@@ -1,0 +1,78 @@
+_id: req_f7433191249e43c6b345ab0888d68347
+type: Request
+parentId: fld_afe5f3ef4e2c408b89b87217543fe190
+modified: 1668715142253
+created: 1668715142253
+url: "{{pay-order-v1}}/payment-order/search?payment_date_from=2022-01-09&paymen\
+  t_date_to=2022-01-14&id=acq-advance-ar_2530007"
+name: Get payment order All filters Test Coelsa Copy
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: >
+    {
+      "Comment": "linea no es parte del payload. solo para guardar la respuesta esperada",
+      "offset": 0,
+      "limit": 10,
+      "total": 2,
+      "data": [
+        {
+          "id": "fe910c32-8eac-4baa-9208-9ccdf7014bb5",
+          "status": "created",
+          "status_detail": "",
+          "effective_payment_date": "2021-10-06",
+          "error_type": "",
+          "error_description": "",
+          "origin_app": "acq-advance-ar",
+          "origin_id": 180003,
+          "country": "AR",
+          "payment": {
+            "currency": "ARS",
+            "amount": 6000.66
+          },
+          "start_payment_date": "2021-09-24",
+          "is_test": true,
+          "properties": {
+            "destination_bcra_id": "00322"
+          },
+          "settlement_ids": null,
+          "sequence": 1633549270
+        },
+        {
+          "id": "rpk10c32-8eac-c3add-9208-9ccdf7014dd1",
+          "status": "created",
+          "status_detail": "",
+          "effective_payment_date": "2021-10-06",
+          "error_type": "",
+          "error_description": "",
+          "origin_app": "acq-advance-ar",
+          "origin_id": 180003,
+          "country": "AR",
+          "payment": {
+            "currency": "ARS",
+            "amount": 200.25
+          },
+          "start_payment_date": "2021-09-24",
+          "is_test": true,
+          "properties": {
+            "destination_bcra_id": "00322"
+          },
+          "settlement_ids": null,
+          "sequence": 2133549291
+        }
+      ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715142253
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

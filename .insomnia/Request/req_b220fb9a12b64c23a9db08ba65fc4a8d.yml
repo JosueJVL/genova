@@ -1,0 +1,21 @@
+_id: req_b220fb9a12b64c23a9db08ba65fc4a8d
+type: Request
+parentId: fld_939cdfe7483b4ae1baaf881c077f6f7d
+modified: 1668715234499
+created: 1668715234499
+url: "{{ms_test_base_url}}/financials/v1/financial_types/search?id=9999"
+name: Retrieve  Financial Type error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234499
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

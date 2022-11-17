@@ -1,0 +1,21 @@
+_id: req_97efa1bf64404b41b8372363e9126777
+type: Request
+parentId: fld_9c13170d064248cdb97fda438bd0170c
+modified: 1668715234654
+created: 1668715234654
+url: "{{ms_test_base_url}}/pricing/v1/products/1/pricing_rates/9999"
+name: Disable Pricing rate Coerrorpy
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234654
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

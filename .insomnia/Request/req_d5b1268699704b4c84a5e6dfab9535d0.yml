@@ -1,0 +1,22 @@
+_id: req_d5b1268699704b4c84a5e6dfab9535d0
+type: Request
+parentId: fld_bae1aee56e784c869e50fd7a0ac53f95
+modified: 1668714918677
+created: 1668714918677
+url: "{{pre-advances}}/reports/search?country=BR&from=2021-11-27&to=2021-12-27&\
+  report_id=report_get_advances_conciliation"
+name: Get reports
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918677
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

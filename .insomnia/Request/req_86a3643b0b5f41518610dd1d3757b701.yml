@@ -1,0 +1,23 @@
+_id: req_86a3643b0b5f41518610dd1d3757b701
+type: Request
+parentId: fld_ef6b4c0932904878bb540fa672ee90b4
+modified: 1668715234887
+created: 1668715234887
+url: "{{ms_test_base_url}}/customers/v1/customers/1/settlement_accounts/1"
+name: Retrieve Settlement Account by Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715234887
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

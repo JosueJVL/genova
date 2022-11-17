@@ -1,0 +1,23 @@
+_id: req_5b226355a08c4db9828f10a5ec603db1
+type: Request
+parentId: fld_9cda282d44d546fe8f664c6bd9c49f81
+modified: 1668714918959
+created: 1668714918959
+url: "{{db_store}}/mc/br/dm/generic_report/search?report_id=fee_issuer_financed\
+  _report&report_type=Summary&date_type=Value&date_from=2021-11-16&date_to=2021\
+  -12-16"
+name: Get Report Data
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918959
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

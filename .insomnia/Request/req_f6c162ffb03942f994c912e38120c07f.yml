@@ -1,0 +1,21 @@
+_id: req_f6c162ffb03942f994c912e38120c07f
+type: Request
+parentId: fld_0ceaf2599eaa443b8a5f8c16fe2fb486
+modified: 1668714919059
+created: 1668714919059
+url: "{{brand_reporting}}/bari/tb/file/notify?id=21"
+name: POST Notify Files - TECBAN - BARI
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919059
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,32 @@
+_id: req_41595704580b400baa920ac971fd076d
+type: Request
+parentId: fld_8be906a1e9974994b0a9e006fea13223
+modified: 1668715196486
+created: 1668715196486
+url: https://internal-api.mercadopago.com/acq/test/financial-entity/v1/financial-entity/mastercard/13186
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "ica": "13186",
+        "name": "BANCO CIUDAD DE BUENOS AIRES",
+        "is_zero_vat": true,
+        "is_financial_entity": false,
+        "country": "AR"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715196486
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

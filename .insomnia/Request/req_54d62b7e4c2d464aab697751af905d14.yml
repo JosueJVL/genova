@@ -1,0 +1,21 @@
+_id: req_54d62b7e4c2d464aab697751af905d14
+type: Request
+parentId: fld_a9ab434a24dd43f291231e4321655f66
+modified: 1668715234411
+created: 1668715234411
+url: "{{ms_test_base_url}}/capabilities/v1/capability_types/9999/enable"
+name: Enable  Capability  Type error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234411
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

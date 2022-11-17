@@ -1,0 +1,24 @@
+_id: req_c8b45a8a3b1b4869a9f33dd67b345a05
+type: Request
+parentId: fld_f3b4403e12434dbe82e8dbcaa962299d
+modified: 1668715234147
+created: 1668715234147
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses/1/set\
+  tings/2"
+name: Retrieve Acquirer Setting by Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: "123456"
+authentication: {}
+metaSortKey: -1668715234147
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

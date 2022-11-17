@@ -1,0 +1,21 @@
+_id: req_3efd12f109774f40a3a7d8b863dd2ebd
+type: Request
+parentId: fld_01412927f7fd4ddea7e96969fcc2c8b4
+modified: 1668715352877
+created: 1668715352877
+url: "{{Endpoint}}{{version}}/securityGroup/1/applications"
+name: Find Applicatiions
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352877
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

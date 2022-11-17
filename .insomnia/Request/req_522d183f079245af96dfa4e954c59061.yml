@@ -1,0 +1,21 @@
+_id: req_522d183f079245af96dfa4e954c59061
+type: Request
+parentId: fld_2723922fb42245fc86c063dce3218e96
+modified: 1668715233953
+created: 1668715233953
+url: "{{ms_test_base_url}}/merchants/v1/merchants/search?id=9999"
+name: Retrieve Merchants error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715233953
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

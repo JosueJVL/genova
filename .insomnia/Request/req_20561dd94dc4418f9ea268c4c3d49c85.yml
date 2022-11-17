@@ -1,0 +1,22 @@
+_id: req_20561dd94dc4418f9ea268c4c3d49c85
+type: Request
+parentId: fld_bb14a0690a834219b3b9e032eb95c15e
+modified: 1668714918928
+created: 1668714918928
+url: "{{settlement_queries}}/date_shift/set?original_date=2021-12-16&new_date=2\
+  021-12-16&description= prueba collection dos&iso_currency_code=ARS&country=AR"
+name: Create Payment Schedule
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918928
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_9e1473da5ac546c0a71c1392da269067
+type: Request
+parentId: fld_46312869f6024711a22fad4188332fcf
+modified: 1668715123784
+created: 1668715123784
+url: "{{sources}}/filemanager/admin/sources/master-sftp/filetypes"
+name: Get Source file types
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715123784
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

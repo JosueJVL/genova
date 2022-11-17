@@ -1,0 +1,25 @@
+_id: req_a855a88f498e4e448bfb80d642049990
+type: Request
+parentId: fld_8839cf4bdbeb4981a48ace88fef018b4
+modified: 1668714918661
+created: 1668714918661
+url: "{{pre-advances}}/files/metadata?country=AR&file_state=Creating&file_state\
+  =Created&file_state=Uploading&file_state=Uploaded&file_state=Removing&file_st\
+  ate=Removed&file_state=Create Error&file_state=Upload Error&file_state=Remove
+  Error&file_state=Retransmit&file_state=Rebuild&file_state=Reprocess&process_d\
+  ate_from=2022-04-22&process_date_to=2022-04-29"
+name: files data
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918661
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

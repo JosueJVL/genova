@@ -1,0 +1,23 @@
+_id: req_006dad75a4444e8dbdd83850a1755b34
+type: Request
+parentId: fld_8933959008724f1c9f72e3edcdd5060e
+modified: 1668715234614
+created: 1668715234614
+url: "{{ms_test_base_url}}/financials/v1/plan_types/search?enable=true"
+name: Retrieve  Plan Type
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: jvicencio
+authentication: {}
+metaSortKey: -1668715234614
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

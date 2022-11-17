@@ -1,0 +1,22 @@
+_id: req_bebaff6f485e43dcb4231b58fd39631e
+type: Request
+parentId: fld_2723922fb42245fc86c063dce3218e96
+modified: 1668715233950
+created: 1668715233950
+url: "{{ms_test_base_url}}/merchants/v1/customers/1/settlement_accounts/9999/me\
+  rchants/1/enable"
+name: Enable Merchant error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715233950
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

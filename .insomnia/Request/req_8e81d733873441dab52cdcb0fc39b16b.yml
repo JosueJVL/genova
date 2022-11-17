@@ -1,0 +1,35 @@
+_id: req_8e81d733873441dab52cdcb0fc39b16b
+type: Request
+parentId: fld_507eb6a2e53c4cf7aa0af50c4a339dcc
+modified: 1668715454992
+created: 1668715454992
+url: "{{Endpoint}}/v1/userbank"
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "userId": "QA",
+        "mail": "jorge@mail.com",
+        "financingBankId": 153,
+        "dni": "898-898-898"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  disabled: false
+  token: "{{jwt_signed}}"
+  prefix: ""
+metaSortKey: -1668715454992
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_ebed2209ae584877815ad4bf483036f1
+type: Request
+parentId: fld_d5fdce65bbf0456bafb248455524eaac
+modified: 1668715454971
+created: 1668715454971
+url: ""
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715454971
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

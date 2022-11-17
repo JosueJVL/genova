@@ -1,0 +1,21 @@
+_id: req_6c99bd2947f04bb0859e47558e683076
+type: Request
+parentId: fld_46312869f6024711a22fad4188332fcf
+modified: 1668715123785
+created: 1668715123785
+url: "{{sources}}/filemanager/admin/sources"
+name: Get sources
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715123785
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_8194f1bd98a843ddadf9ce37b4b507ec
+type: Request
+parentId: fld_584e0c5c1f384e949ceb4fd83e6fcf43
+modified: 1668714918835
+created: 1668714918835
+url: "{{conciliation}}/consistency/payments_gateway/search?gtw_transaction_id=1234"
+name: Get Payment GTW sm
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918835
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

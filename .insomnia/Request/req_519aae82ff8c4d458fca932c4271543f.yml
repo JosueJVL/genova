@@ -1,0 +1,21 @@
+_id: req_519aae82ff8c4d458fca932c4271543f
+type: Request
+parentId: fld_ef6b4c0932904878bb540fa672ee90b4
+modified: 1668715234820
+created: 1668715234820
+url: "{{ms_test_base_url}}/customers/v1/customers/1/settlement_accounts/9999"
+name: Disable Settlement Account error Copy
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234820
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

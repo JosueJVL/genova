@@ -1,0 +1,10 @@
+_id: fld_d5fdce65bbf0456bafb248455524eaac
+type: RequestGroup
+parentId: wrk_a48e511f753943208f1cbbbded85f531
+modified: 1668715499308
+created: 1668715455000
+name: UserBank
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1668715455000.1465

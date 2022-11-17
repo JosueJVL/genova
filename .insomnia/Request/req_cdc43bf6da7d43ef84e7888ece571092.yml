@@ -1,0 +1,21 @@
+_id: req_cdc43bf6da7d43ef84e7888ece571092
+type: Request
+parentId: fld_01412927f7fd4ddea7e96969fcc2c8b4
+modified: 1668715352883
+created: 1668715352883
+url: "{{Endpoint}}{{version}}/securityGroup/1"
+name: Get by Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352883
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

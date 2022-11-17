@@ -1,0 +1,21 @@
+_id: req_ddd843725f6c436fa7a417604caadd3c
+type: Request
+parentId: fld_d8879a6cd6164284805db9befdbbf1d6
+modified: 1668715233933
+created: 1668715233933
+url: "{{ms_test_base_url}}/merchants/v1/merchants/9999/financial_types/2"
+name: Disable Merchant Financial Type error
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715233933
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

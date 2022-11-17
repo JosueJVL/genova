@@ -1,0 +1,21 @@
+_id: req_5f0128b160f44852a2fe14e155ac22eb
+type: Request
+parentId: fld_e92f76efa112469a81ff19eb47b02503
+modified: 1668714919531
+created: 1668714919531
+url: https://internal-api.mercadopago.com/acq-ss/test-staging/genova/concept_group_name/search
+name: greoup name genova
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919531
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

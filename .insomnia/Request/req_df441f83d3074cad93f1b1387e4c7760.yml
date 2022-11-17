@@ -1,0 +1,30 @@
+_id: req_df441f83d3074cad93f1b1387e4c7760
+type: Request
+parentId: fld_10264d394ffa4d92abd09307104aa402
+modified: 1668715233895
+created: 1668715233895
+url: "{{ms_test_base_url}}/merchants/v1/merchants/1/pricing_rates/2"
+name: Create Merchant Discount Rate
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |
+    {
+
+        "start_valid_date": "2022-04-05T00:00:00Z"
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715233895
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

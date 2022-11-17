@@ -1,0 +1,22 @@
+_id: req_17f588d92b6e47e9bceb53c5161d5f1f
+type: Request
+parentId: fld_0ceaf2599eaa443b8a5f8c16fe2fb486
+modified: 1668714919077
+created: 1668714919077
+url: "{{brand_reporting}}/genova/vi/file/search?date_from=2022-04-18&date_to=20\
+  22-05-15&country=BR&status=Received&status=Notified"
+name: Get Files - VISA - GENOVA -
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919077
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

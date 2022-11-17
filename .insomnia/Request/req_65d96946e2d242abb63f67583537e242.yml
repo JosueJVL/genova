@@ -1,0 +1,21 @@
+_id: req_65d96946e2d242abb63f67583537e242
+type: Request
+parentId: fld_fd95406a580744b68d37ece8e42aa10d
+modified: 1668714919189
+created: 1668714919189
+url: "{{cerc}}/carryovers/search?merchant_id=1"
+name: Get Carry Overs
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919189
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

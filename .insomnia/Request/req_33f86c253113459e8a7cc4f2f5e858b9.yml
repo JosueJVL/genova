@@ -1,0 +1,23 @@
+_id: req_33f86c253113459e8a7cc4f2f5e858b9
+type: Request
+parentId: fld_8933959008724f1c9f72e3edcdd5060e
+modified: 1668715234594
+created: 1668715234594
+url: "{{ms_test_base_url}}/financials/v1/plan_types/1/enable"
+name: Enable  Plan Type
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: "123456"
+authentication: {}
+metaSortKey: -1668715234594
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

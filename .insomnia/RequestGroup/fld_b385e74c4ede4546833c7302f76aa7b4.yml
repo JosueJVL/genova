@@ -1,0 +1,12 @@
+_id: fld_b385e74c4ede4546833c7302f76aa7b4
+type: RequestGroup
+parentId: wrk_a48e511f753943208f1cbbbded85f531
+modified: 1668715464541
+created: 1668715123789
+name: "** GENOVA - Files Manager **"
+description: ""
+environment:
+  sources: https://internal-api.mercadopago.com/acq/staging
+  internal: https://internal-api.mercadolibre.com
+environmentPropertyOrder: null
+metaSortKey: -1668715455025

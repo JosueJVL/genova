@@ -1,0 +1,23 @@
+_id: req_662cc0bcef364270b9f15950b1762e43
+type: Request
+parentId: fld_f1704e4cdaa848b1b2f9eb50022e877d
+modified: 1668715234936
+created: 1668715234936
+url: "{{ms_test_base_url}}/customers/v1/customers/1/payment_facilitators/10"
+name: Disable  Payment Facilitator
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: "12346"
+authentication: {}
+metaSortKey: -1668715234936
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

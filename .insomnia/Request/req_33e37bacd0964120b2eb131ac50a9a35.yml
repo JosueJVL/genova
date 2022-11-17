@@ -1,0 +1,41 @@
+_id: req_33e37bacd0964120b2eb131ac50a9a35
+type: Request
+parentId: fld_939cdfe7483b4ae1baaf881c077f6f7d
+modified: 1668715234537
+created: 1668715234537
+url: "{{ms_test_base_url}}/financials/v1/plan_types/1/financial_types/9999"
+name: Update  Financial Type error
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "minimun_amount": 50,
+        "maximun_amount": 90000,
+         "installments": [
+            {"id": 1},
+            {"id": 2},
+            {"id": 3},
+            {"id": 4},
+            {"id": 5},
+            {"id": 6},
+            {"id": 7},
+            {"id": 8},
+            {"id": 9}
+        ],
+        "start_valid_date":  "2022-04-05T00:00:00Z"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234537
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

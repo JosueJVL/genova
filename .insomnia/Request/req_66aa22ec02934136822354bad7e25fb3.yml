@@ -1,0 +1,21 @@
+_id: req_66aa22ec02934136822354bad7e25fb3
+type: Request
+parentId: fld_e92f76efa112469a81ff19eb47b02503
+modified: 1668714919536
+created: 1668714919536
+url: https://internal-api.mercadopago.com/acq-ss/test-staging/genova/members/getall
+name: MEmbers Genova
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919536
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

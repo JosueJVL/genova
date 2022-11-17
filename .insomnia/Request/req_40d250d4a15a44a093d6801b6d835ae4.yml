@@ -1,0 +1,21 @@
+_id: req_40d250d4a15a44a093d6801b6d835ae4
+type: Request
+parentId: fld_e92f76efa112469a81ff19eb47b02503
+modified: 1668714919527
+created: 1668714919527
+url: https://internal-api.mercadopago.com/acq/backoffice-bi/test-staging/constants/search
+name: Genova Constants Backoffice
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919527
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

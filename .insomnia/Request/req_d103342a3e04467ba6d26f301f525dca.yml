@@ -1,0 +1,21 @@
+_id: req_d103342a3e04467ba6d26f301f525dca
+type: Request
+parentId: fld_f1f3132cff2a40939d3bbdf901c9f63b
+modified: 1668715211925
+created: 1668715211925
+url: http://internal-api.mercadopago.com/v1/payments/50912?caller.scopes=admin
+name: Get by ID Error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715211925
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

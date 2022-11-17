@@ -1,0 +1,21 @@
+_id: req_b548c6e183dc497bbc7875433e42ff5e
+type: Request
+parentId: fld_11d2bd2c13474d9b9398fcb62321dcc1
+modified: 1668715235100
+created: 1668715235100
+url: ""
+name: Retrieve Customers
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715235100
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

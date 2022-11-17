@@ -1,0 +1,21 @@
+_id: req_fc5987469a9744af8e8a48df53ff58f3
+type: Request
+parentId: fld_cd30d2e37e814c2892ba009a09105f46
+modified: 1668715233882
+created: 1668715233882
+url: "{{ms_test_base_url}}/merchants/v1/merchants/9999/acquirer_settings/2/enable"
+name: Enable Merchant Acquirer Setting error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715233882
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

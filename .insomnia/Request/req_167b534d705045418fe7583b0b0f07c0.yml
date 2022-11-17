@@ -1,0 +1,22 @@
+_id: req_167b534d705045418fe7583b0b0f07c0
+type: Request
+parentId: fld_4fa4c5e9a4af41bf9d9420c7901411ba
+modified: 1668714919171
+created: 1668714919171
+url: "{{cerc}}/reports/search?date_from=2021-12-17&date_to=2021-12-27&merchant_\
+  id=1&arrangement=VCC&report_id=merchant_schedule_urs_conciliation"
+name: Get Cerc Report data new
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919171
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

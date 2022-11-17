@@ -1,0 +1,23 @@
+_id: req_c6b81d46a8cb44b38f32b2861106fc21
+type: Request
+parentId: fld_a9ab434a24dd43f291231e4321655f66
+modified: 1668715234409
+created: 1668715234409
+url: "{{ms_test_base_url}}/capabilities/v1/capability_types/1"
+name: Disable  Capability  Type Copy
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+authentication: {}
+metaSortKey: -1668715234409
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

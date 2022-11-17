@@ -1,0 +1,21 @@
+_id: req_3032315d3f934d99b5965f74401963ab
+type: Request
+parentId: fld_f2963952d9a3416c8b8fd4e14360c3c7
+modified: 1668714918619
+created: 1668714918619
+url: https://internal-api.mercadopago.com/acq-advance-citi-br/staging-api/advances/delete?id=71
+name: Advance Delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918619
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

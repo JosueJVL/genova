@@ -1,0 +1,21 @@
+_id: req_2343484b917248188ac6b16d80294a26
+type: Request
+parentId: fld_bfeb5cc7f2cf40ff8a26609a94dc3ee3
+modified: 1668715182163
+created: 1668715182163
+url: https://local.adminml.com:8443/api/sourcesV2
+name: Sources v2
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715182163
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

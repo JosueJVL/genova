@@ -1,0 +1,23 @@
+_id: req_f85b89ef54764686a2270ac93fc443a1
+type: Request
+parentId: fld_0b7a426199274c68b5e06c98ed36c063
+modified: 1668715233976
+created: 1668715233976
+url: "{{ms_test_base_url}}/routings/v1/clearing_routings/1"
+name: Disable Clearing Routings Mastercard
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: "12346"
+authentication: {}
+metaSortKey: -1668715233976
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

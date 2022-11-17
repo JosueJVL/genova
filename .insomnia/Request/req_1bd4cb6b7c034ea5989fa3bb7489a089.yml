@@ -1,0 +1,23 @@
+_id: req_1bd4cb6b7c034ea5989fa3bb7489a089
+type: Request
+parentId: fld_f1704e4cdaa848b1b2f9eb50022e877d
+modified: 1668715234954
+created: 1668715234954
+url: "{{ms_test_base_url}}/customers/v1/customers/1/payment_facilitators/1/enable"
+name: Enable  Payment Facilitator
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: "123456"
+authentication: {}
+metaSortKey: -1668715234954
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_55b11cbcd175402eadea5a5d7c302cb0
+type: Request
+parentId: fld_d8879a6cd6164284805db9befdbbf1d6
+modified: 1668715233938
+created: 1668715233938
+url: "{{ms_test_base_url}}/merchants/v1/merchants/9999/financial_types/2/set_de\
+  fault"
+name: Set default Merchant Financial Type error
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |
+    {
+        "start_valid_date": "2022-04-05T00:00:00Z"
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715233938
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

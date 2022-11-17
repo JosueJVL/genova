@@ -1,0 +1,29 @@
+_id: req_7bb89dedfaef460092499c4572df4d1b
+type: Request
+parentId: fld_16bd63c577404a558aa39525aaaf43ae
+modified: 1668715352925
+created: 1668715352925
+url: "{{Endpoint}}{{version}}/user/emi"
+name: Create Copy
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |-
+    {
+        "email": "emi@mercadolibre.com",
+        "dni": "dni"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352925
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

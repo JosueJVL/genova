@@ -1,0 +1,34 @@
+_id: req_b15336c8a3dc4ef89c93d167f2a45c91
+type: Request
+parentId: fld_68c03cda61384e8988ca4a5b4684d1ce
+modified: 1668715352859
+created: 1668715352859
+url: "{{Endpoint}}{{version}}/assignment"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "security_group": {
+            "id": 1
+        },
+        "user": {
+            "userId": "emi"
+        },
+        "role": "admin"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352859
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

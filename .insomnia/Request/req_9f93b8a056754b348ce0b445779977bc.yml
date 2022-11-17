@@ -1,0 +1,22 @@
+_id: req_9f93b8a056754b348ce0b445779977bc
+type: Request
+parentId: fld_f1704e4cdaa848b1b2f9eb50022e877d
+modified: 1668715234947
+created: 1668715234947
+url: "{{ms_test_base_url}}/customers/v1/customers/1/payment_facilitators/9999/e\
+  nable"
+name: Enable  Payment Facilitator error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234947
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_3ff03957af6e4a2095db5a4e71f6e0bc
+type: Request
+parentId: fld_46312869f6024711a22fad4188332fcf
+modified: 1668715123782
+created: 1668715123782
+url: "{{sources}}/filemanager/admin/states"
+name: Get States
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715123782
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

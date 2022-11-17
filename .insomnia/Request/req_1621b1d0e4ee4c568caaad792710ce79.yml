@@ -1,0 +1,26 @@
+_id: req_1621b1d0e4ee4c568caaad792710ce79
+type: Request
+parentId: fld_e8c79004a1184f3b9e4d1ad634b08230
+modified: 1668714918853
+created: 1668714918853
+url: "{{conciliation}}/consistency/payments_gateway/search_by_filter/summary?pa\
+  yment_state=all&gtw_operation=all&gtw_status=all&time_type=last_modified&rang\
+  e_type=relative&from_or_value=1&to_or_unit=years&errors=GATEWAY_STATUS_ERROR&\
+  errors=PAYMENTS_STATUS_ERROR&errors=REFUND_ERROR&errors=OK&errors=MISSING_PAY\
+  MENT&page_start=0&page_length=100&user=%5Bobject%20Object%5D&transaction_type\
+  =all&country=ARG&brand=all"
+name: Get Payment GTW summary
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918853
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

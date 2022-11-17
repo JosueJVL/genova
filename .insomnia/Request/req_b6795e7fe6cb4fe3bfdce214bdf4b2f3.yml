@@ -1,0 +1,21 @@
+_id: req_b6795e7fe6cb4fe3bfdce214bdf4b2f3
+type: Request
+parentId: fld_1ecd39bad26940b186c8528e2cdf5766
+modified: 1668715234766
+created: 1668715234766
+url: "{{ms_test_base_url}}/pricing/v1/products/search"
+name: Retrieve Product
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234766
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

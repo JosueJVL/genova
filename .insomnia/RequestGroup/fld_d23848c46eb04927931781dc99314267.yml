@@ -1,0 +1,12 @@
+_id: fld_d23848c46eb04927931781dc99314267
+type: RequestGroup
+parentId: wrk_a48e511f753943208f1cbbbded85f531
+modified: 1668715492896
+created: 1668715235135
+name: MERCHANT-SETTINGS-TEST
+description: ""
+environment:
+  ms_test_base_url: https://internal-api.mercadopago.com/acq/test/
+  ms_prod_base_url: http://internal.mercadopago.com/acq/
+environmentPropertyOrder: null
+metaSortKey: -1668715455000.1953

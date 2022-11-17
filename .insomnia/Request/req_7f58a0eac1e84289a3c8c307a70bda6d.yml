@@ -1,0 +1,21 @@
+_id: req_7f58a0eac1e84289a3c8c307a70bda6d
+type: Request
+parentId: fld_01412927f7fd4ddea7e96969fcc2c8b4
+modified: 1668715352871
+created: 1668715352871
+url: "{{Endpoint}}{{version}}/securityGroup?securityGroupId=1"
+name: Find Copy
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715352871
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

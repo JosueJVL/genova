@@ -1,0 +1,21 @@
+_id: req_8ff687943fb64ab4b84e037141b54efd
+type: Request
+parentId: fld_ba4e015567eb4730a886c2faab4e6c45
+modified: 1668715234235
+created: 1668715234235
+url: "{{ms_test_base_url}}/acquirers/v1/acquirer_licenses/search?id=9999"
+name: Retrieve Acquirer License error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234235
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

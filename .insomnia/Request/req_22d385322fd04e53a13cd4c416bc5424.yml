@@ -1,0 +1,21 @@
+_id: req_22d385322fd04e53a13cd4c416bc5424
+type: Request
+parentId: fld_40bb1935b965452bb46eb84930529552
+modified: 1668714918915
+created: 1668714918915
+url: "{{settlement_queries}}/bank_holiday?country=BR"
+name: Get Normal holiday
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918915
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

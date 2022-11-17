@@ -1,0 +1,22 @@
+_id: req_7137c15784b446838e9f680b0d6d97f0
+type: Request
+parentId: fld_46312869f6024711a22fad4188332fcf
+modified: 1668715123780
+created: 1668715123780
+url: "{{sources}}/filemanager/admin/sources/master-sftp/files?order=DESC&order_\
+  by=translated_at"
+name: Get Source Files
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715123780
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

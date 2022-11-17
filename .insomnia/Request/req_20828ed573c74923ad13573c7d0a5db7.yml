@@ -1,0 +1,21 @@
+_id: req_20828ed573c74923ad13573c7d0a5db7
+type: Request
+parentId: fld_ef6b4c0932904878bb540fa672ee90b4
+modified: 1668715234846
+created: 1668715234846
+url: "{{ms_test_base_url}}/customers/v1/customers/1/settlement_accounts/9999/enable"
+name: Enable Settlement Account error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234846
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

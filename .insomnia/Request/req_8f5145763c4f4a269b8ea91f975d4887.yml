@@ -1,0 +1,40 @@
+_id: req_8f5145763c4f4a269b8ea91f975d4887
+type: Request
+parentId: fld_1ecd39bad26940b186c8528e2cdf5766
+modified: 1668715234803
+created: 1668715234803
+url: "{{ms_test_base_url}}/pricing/v1/products/1"
+name: Update Product
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |
+    {
+        "country": "BRA",
+        "brand": "mastercard",
+        "type": "credit",
+        "card_present": true,
+        "international": false,
+        "processing_mode": "sms",
+        "plan_type_id": 1,
+        "installments": [
+            {"id": 1},
+            {"id": 2},
+            {"id": 3}
+        ],
+        "start_valid_date": "2022-04-05T00:00:00Z" 
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234803
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

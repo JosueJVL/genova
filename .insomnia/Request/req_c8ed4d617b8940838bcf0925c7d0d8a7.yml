@@ -1,0 +1,21 @@
+_id: req_c8ed4d617b8940838bcf0925c7d0d8a7
+type: Request
+parentId: fld_9cda282d44d546fe8f664c6bd9c49f81
+modified: 1668714918967
+created: 1668714918967
+url: "{{db_store}}/constants/search"
+name: Get Report definition params
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918967
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

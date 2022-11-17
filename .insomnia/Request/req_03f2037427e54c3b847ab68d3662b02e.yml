@@ -1,0 +1,24 @@
+_id: req_03f2037427e54c3b847ab68d3662b02e
+type: Request
+parentId: fld_e38e5fb7e7f94dd4869cf6e28e62d26d
+modified: 1668714918726
+created: 1668714918726
+url: "{{dates}}/settlement_schedule_dates?clearing_time=2021-12-16T18:05:50Z&co\
+  untry=AR&currency=ARS&international=false&financial_entity=false&installments\
+  _financed_by_issuer=false&alternative_prepaid_settlement=false&brand=visa&car\
+  d_type=credit&processing_type=dms&installment_sub_type=standard"
+name: Get Dates
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918726
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

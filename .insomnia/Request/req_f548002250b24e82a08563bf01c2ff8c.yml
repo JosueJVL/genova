@@ -1,0 +1,43 @@
+_id: req_f548002250b24e82a08563bf01c2ff8c
+type: Request
+parentId: fld_939cdfe7483b4ae1baaf881c077f6f7d
+modified: 1668715234546
+created: 1668715234546
+url: "{{ms_test_base_url}}/financials/v1/plan_types/1/financial_types/1"
+name: Update  Financial Type
+description: ""
+method: PUT
+body:
+  mimeType: ""
+  text: |
+    {
+        "minimun_amount": 50,
+        "maximun_amount": 90000,
+         "installments": [
+            {"id": 1},
+            {"id": 2},
+            {"id": 3},
+            {"id": 4},
+            {"id": 5},
+            {"id": 6},
+            {"id": 7},
+            {"id": 8},
+            {"id": 9}
+        ],
+        "start_valid_date":  "2022-04-05T00:00:00Z"
+    }
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-6d4acf6f-4d16-40b8-b859-bbf6c09e7021
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234546
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

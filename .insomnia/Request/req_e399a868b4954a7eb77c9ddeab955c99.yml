@@ -1,0 +1,21 @@
+_id: req_e399a868b4954a7eb77c9ddeab955c99
+type: Request
+parentId: fld_9c13170d064248cdb97fda438bd0170c
+modified: 1668715234672
+created: 1668715234672
+url: "{{ms_test_base_url}}/pricing/v1/products/1/pricing_rates/1"
+name: Disable Pricing rate
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234672
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

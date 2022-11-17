@@ -1,0 +1,21 @@
+_id: req_ae41be96d0f54bdcaab7e2a91d68abf0
+type: Request
+parentId: fld_a9ab434a24dd43f291231e4321655f66
+modified: 1668715234413
+created: 1668715234413
+url: "{{ms_test_base_url}}/capabilities/v1/capability_types/search?name=foo"
+name: Retrieve  Capability  Type error
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715234413
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

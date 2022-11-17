@@ -1,0 +1,38 @@
+_id: req_5bdad00e2c884d409dabbb996a401d31
+type: Request
+parentId: fld_d15820aa989f4273b6063bc137353f9f
+modified: 1668714918813
+created: 1668714918813
+url: "{{transactions}}/transaction/search"
+name: Post search
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+      "search_filters": [
+        {
+          "operator": "and",
+          "clause": "date_range",
+          "field": "next_clearing_time",
+          "values": [
+            "2021-12-16T10:41:11",
+            "2021-12-16T11:41:11"
+          ]
+        }
+      ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668714918813
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

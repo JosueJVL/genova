@@ -1,0 +1,23 @@
+_id: req_55d371bd53a44d39b9b1b2b4bd7096c0
+type: Request
+parentId: fld_f3b4403e12434dbe82e8dbcaa962299d
+modified: 1668715234126
+created: 1668715234126
+url: "{{ms_test_base_url}}/acquirers/v1/settings/search"
+name: Retrieve Acquirer Setting
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: x-user-session
+    value: "7845646"
+authentication: {}
+metaSortKey: -1668715234126
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

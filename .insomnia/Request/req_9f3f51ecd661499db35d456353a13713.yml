@@ -1,0 +1,21 @@
+_id: req_9f3f51ecd661499db35d456353a13713
+type: Request
+parentId: fld_2030a55942d344e6a736014bfae0386c
+modified: 1668714918699
+created: 1668714918699
+url: https://internal-api.mercadopago.com/acq-dates/staging-api/v2/constants
+name: Dates Reports - Constants
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714918699
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

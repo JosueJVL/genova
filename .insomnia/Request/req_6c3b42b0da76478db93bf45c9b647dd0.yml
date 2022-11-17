@@ -1,0 +1,23 @@
+_id: req_6c3b42b0da76478db93bf45c9b647dd0
+type: Request
+parentId: fld_8933959008724f1c9f72e3edcdd5060e
+modified: 1668715234629
+created: 1668715234629
+url: "{{ms_test_base_url}}/financials/v1/plan_types/1"
+name: Retrieve  Plan Type by Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-9a6772fd-20dc-434e-8b9e-0b82a05c62e7
+authentication: {}
+metaSortKey: -1668715234629
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

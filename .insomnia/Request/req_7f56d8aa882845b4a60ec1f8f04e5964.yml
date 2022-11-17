@@ -1,0 +1,25 @@
+_id: req_7f56d8aa882845b4a60ec1f8f04e5964
+type: Request
+parentId: fld_0ac8a61d13e24bce88a72d1d0321cb54
+modified: 1668714919394
+created: 1668714919394
+url: "{{db_store}}/mc/br/dm/report/search/detail/transaction/relative/7/months/\
+  Reconciliation_Date+Settlement_Date+Transaction_Currency+Reconciliation_Curre\
+  ncy+Conversion_Rate+Transaction_Amount+Reconciliation_Amount+Fee_Transaction_\
+  Amount+Fee_Reconciliation_Amount+Fee_Transaction_Currency+Fee_Reconciliation_\
+  Currency+Not_Conciliated/0/100"
+name: Get Genova Master Detail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668714919394
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

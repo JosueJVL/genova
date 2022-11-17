@@ -1,0 +1,23 @@
+_id: req_2afeacde41e1457d925f9704aa90e622
+type: Request
+parentId: fld_ba4e015567eb4730a886c2faab4e6c45
+modified: 1668715234245
+created: 1668715234245
+url: "{{ms_test_base_url}}/acquirers/v1/acquirer_licenses/search?id=1&enable=true"
+name: Retrieve Acquirer License
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: X-Auth
+    value: omorlet-9a6772fd-20dc-434e-8b9e-0b82a05c62e7
+authentication: {}
+metaSortKey: -1668715234245
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

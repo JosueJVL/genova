@@ -1,0 +1,32 @@
+_id: req_8bc06b8e51ec4e189dc35c5e0be7356f
+type: Request
+parentId: fld_e735ea45c23047b0bedaf6339431aa73
+modified: 1668715352843
+created: 1668715352843
+url: "{{Endpoint}}{{version}}/role/1/resource/2"
+name: Original Create assig resource
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "roleId": 1,
+        "resourceId": 2,
+        "validTo": null,
+        "requireAuthorization": false,
+        "applicationActionID": 4
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715352843
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

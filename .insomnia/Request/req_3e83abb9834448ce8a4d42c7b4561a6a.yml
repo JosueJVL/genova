@@ -1,0 +1,21 @@
+_id: req_3e83abb9834448ce8a4d42c7b4561a6a
+type: Request
+parentId: fld_10264d394ffa4d92abd09307104aa402
+modified: 1668715233892
+created: 1668715233892
+url: "{{ms_test_base_url}}/merchants/v1/merchants/9999/pricing_rates/2/enable"
+name: Enable Merchant Discount Rate error
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668715233892
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

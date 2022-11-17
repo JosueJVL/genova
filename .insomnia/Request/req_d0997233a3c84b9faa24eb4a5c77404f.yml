@@ -1,0 +1,35 @@
+_id: req_d0997233a3c84b9faa24eb4a5c77404f
+type: Request
+parentId: fld_a921470fb7bb49629730e8e6a024ad92
+modified: 1668715234403
+created: 1668715234403
+url: "{{ms_test_base_url}}/acquirers/v1/organizations"
+name: Create Organization
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |
+    {
+        "name": "Mercado Pago",
+        "description": "Mercado Pago Arg",
+        "document_type": "CUIT",
+        "document_value": "12345667",
+        "country": "ARG"
+
+    }
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234403
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

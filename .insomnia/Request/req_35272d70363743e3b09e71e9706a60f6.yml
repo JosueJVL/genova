@@ -1,0 +1,29 @@
+_id: req_35272d70363743e3b09e71e9706a60f6
+type: Request
+parentId: fld_41ce491ba88e4a998ee4bc66ad13c8ec
+modified: 1668715353243
+created: 1668715353243
+url: "{{Endpoint}}{{version}}/role"
+name: Role
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "name": "test",
+        "description": "description test"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715353243
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

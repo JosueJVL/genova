@@ -1,0 +1,40 @@
+_id: req_0dff31c04873471b943db211f75332f5
+type: Request
+parentId: fld_ba4e015567eb4730a886c2faab4e6c45
+modified: 1668715234292
+created: 1668715234292
+url: "{{ms_test_base_url}}/acquirers/v1/organizations/1/acquirer_licenses"
+name: Create Acquirer License
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "country": "ARG",
+        "brand": "mastercard",
+        "endpoint": "0070654",
+        "token_requestor_id": "50110540444",
+        "acquirer_settings": [
+            {
+                "settlement_currency_code": "032",
+                "bin": "123456",
+                "ica": "678909"
+            }
+        ]
+    }
+parameters: []
+headers:
+  - name: x-user-session
+    value: 71b307b9328bf61c1b02b8c85077ccd87d3d8a2d81db63cff0ed840978f415a3
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234292
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

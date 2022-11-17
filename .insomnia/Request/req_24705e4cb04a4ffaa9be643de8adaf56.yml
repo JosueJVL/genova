@@ -1,0 +1,28 @@
+_id: req_24705e4cb04a4ffaa9be643de8adaf56
+type: Request
+parentId: fld_c727e51ea1604361a8fdf9dcd0a49d06
+modified: 1668715234451
+created: 1668715234451
+url: "{{ms_test_base_url}}/financials/v1/installments"
+name: Create Installment
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "installment": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668715234451
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
